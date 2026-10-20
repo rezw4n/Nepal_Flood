@@ -8,7 +8,7 @@ import base64
 import html
 import re
 import sys
-from datetime import datetime
+from datetime import datetime, timezone
 from docx import Document
 from docx.enum.section import WD_SECTION
 from docx.enum.table import WD_TABLE_ALIGNMENT
@@ -257,7 +257,7 @@ def to_word(bs, path, title, header):
         i += 1
     doc.core_properties.title = title
     doc.core_properties.author = authors_of(bs)
-    doc.core_properties.created = doc.core_properties.modified = datetime.now(); doc.core_properties.revision = 1
+    doc.core_properties.created = doc.core_properties.modified = datetime.now(timezone.utc); doc.core_properties.revision = 1
     doc.save(path)
 
 

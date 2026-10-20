@@ -6,6 +6,7 @@ before results, APA author-year references), filled from the same computed resul
 """
 from pathlib import Path
 import json
+from datetime import datetime, timezone
 import re
 import sys
 import time
@@ -365,6 +366,7 @@ def to_docx(bs, path, title):
         i += 1
     cp = doc.core_properties
     cp.title = title; cp.subject = '26 August 2026 Bhote Koshi–Trishuli flood, Nepal'
+    cp.created = cp.modified = datetime.now(timezone.utc); cp.revision = 1
     cp.author = '; '.join(a.strip() for a in authors.split(',')) if authors and 'supplied' not in authors else 'Author list pending'
     doc.save(path)
 

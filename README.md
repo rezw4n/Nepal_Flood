@@ -3,9 +3,9 @@
 Code, data products and manuscript files for a study of the buildings destroyed by the 26 August 2026 rock–ice
 avalanche and flood in the Bhote Koshi–Trishuli valley, Nepal.
 
-**Authors:** Rezwan Ahmed (Department of Geography and Environment, University of Dhaka), Nusrat Zahan Jarin
-(Department of Geography, University of California, Santa Barbara) and Obaidur Rahman (Department of Geography,
-Oklahoma State University).
+**Authors:** Nusrat Zahan Jarin (Department of Geography, University of California, Santa Barbara), Obaidur Rahman
+(Department of Geography, Oklahoma State University) and Rezwan Ahmed (Department of Geography and Environment,
+University of Dhaka).
 
 ## Main results
 

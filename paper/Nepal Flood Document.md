@@ -1,16 +1,16 @@
 # What height is safe? An analysis of building destruction along the 207-km path of Nepal's 2026 flood
 
-Rezwan Ahmed^1^, Nusrat Zahan Jarin^2^, Obaidur Rahman^3^
+Nusrat Zahan Jarin^1^, Obaidur Rahman^2^, Rezwan Ahmed^3^
 
-^1^Department of Geography and Environment, University of Dhaka, Dhaka, Bangladesh
+^1^Department of Geography, University of California, Santa Barbara, CA, USA
 
-^2^Department of Geography, University of California, Santa Barbara, CA, USA
+^2^Department of Geography, Oklahoma State University, Stillwater, OK, USA
 
-^3^Department of Geography, Oklahoma State University, Stillwater, OK, USA
-
-ORCID iD, Rezwan Ahmed: [https://orcid.org/0009-0002-8003-099X](https://orcid.org/0009-0002-8003-099X)
+^3^Department of Geography and Environment, University of Dhaka, Dhaka, Bangladesh
 
 ORCID iD, Nusrat Zahan Jarin: [https://orcid.org/0000-0003-2657-8559](https://orcid.org/0000-0003-2657-8559)
+
+ORCID iD, Rezwan Ahmed: [https://orcid.org/0009-0002-8003-099X](https://orcid.org/0009-0002-8003-099X)
 
 ## Abstract
 
