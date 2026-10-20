@@ -1,0 +1,8 @@
+class,total_in_window,in_flow_extent,within_500m_rem_lt20
+bridge,1754,47,95
+dam,18,0,1
+generator,26,4,5
+plant,39,8,4
+power_tower,1698,35,37
+substation,47,4,4
+weir,10,1,1

@@ -1,0 +1,10 @@
+place,chainage_km,offset_m,time,t_s,source,minutes_after_onset,arrival,celerity_from_previous_m_s
+Source failure (seismic onset),0,3.693,08:37:10,31030,NRSC/ISRO; USGS us7000tbwb,0,True,
+Rasuwagadhi (border),23.46,60.92,08:44:00,31440,"ICIMOD (22 km in 6 min 50 s); gauge lost 08:40, border hit 08:45 (CHWRR)",6.833,True,57.23
+Syaphrubesi gauge lost,36.51,35.58,08:50:00,31800,CHWRR Table 2,12.83,True,36.23
+Betrawati gauge lost,69.94,31.29,09:20:00,33600,CHWRR Table 2,42.83,True,18.58
+Galchhi,105.2,58.56,10:28:00,37680,CHWRR Table 2,110.8,True,8.641
+Phurke/Malekhu warning level,127,25.22,11:26:00,41160,CHWRR Table 2,168.8,True,6.27
+Mugling,169.9,239.4,13:00:00,46800,CHWRR Table 2; HiRISK,262.8,True,7.603
+"Kali Khola danger level (threshold crossing, not arrival)",173,42.32,14:14:00,51240,CHWRR Table 2,336.8,False,
+Devghat arrival,206.8,544.6,15:20:00,55200,CHWRR Table 2 (peak 16:00),402.8,True,4.394

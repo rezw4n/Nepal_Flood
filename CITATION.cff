@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "What height is safe? An analysis of building destruction along the 207-km path of Nepal's 2026 flood"
+type: software
+authors:
+  - given-names: Rezwan
+    family-names: Ahmed
+    affiliation: "Department of Geography and Environment, University of Dhaka, Dhaka, Bangladesh"
+    orcid: "https://orcid.org/0009-0002-8003-099X"
+  - given-names: Nusrat Zahan
+    family-names: Jarin
+    affiliation: "Department of Geography, University of California, Santa Barbara, CA, USA"
+    orcid: "https://orcid.org/0000-0003-2657-8559"
+  - given-names: Obaidur
+    family-names: Rahman
+    affiliation: "Department of Geography, Oklahoma State University, Stillwater, OK, USA"
+repository-code: "https://github.com/rezw4n/Nepal_Flood"
+date-released: "2026-10-20"
+version: "1.0.0"
+keywords:
+  - Nepal
+  - flood
+  - cascading hazard
+  - building damage
+  - height above nearest drainage
+  - remote sensing
+  - early warning

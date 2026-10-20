@@ -1,0 +1,158 @@
+{
+ "timeline": [
+  {
+   "place": "Source failure (seismic onset)",
+   "chainage_km": 0.0,
+   "offset_m": 3.6925737849749076,
+   "time": "08:37:10",
+   "t_s": 31030,
+   "source": "NRSC/ISRO; USGS us7000tbwb",
+   "minutes_after_onset": 0.0,
+   "arrival": true,
+   "celerity_from_previous_m_s": NaN
+  },
+  {
+   "place": "Rasuwagadhi (border)",
+   "chainage_km": 23.4645,
+   "offset_m": 60.91682879935122,
+   "time": "08:44:00",
+   "t_s": 31440,
+   "source": "ICIMOD (22 km in 6 min 50 s); gauge lost 08:40, border hit 08:45 (CHWRR)",
+   "minutes_after_onset": 6.833333333333333,
+   "arrival": true,
+   "celerity_from_previous_m_s": 57.23048780487805
+  },
+  {
+   "place": "Syaphrubesi gauge lost",
+   "chainage_km": 36.507,
+   "offset_m": 35.58275141334428,
+   "time": "08:50:00",
+   "t_s": 31800,
+   "source": "CHWRR Table 2",
+   "minutes_after_onset": 12.833333333333334,
+   "arrival": true,
+   "celerity_from_previous_m_s": 36.229166666666664
+  },
+  {
+   "place": "Betrawati gauge lost",
+   "chainage_km": 69.944,
+   "offset_m": 31.288630889594987,
+   "time": "09:20:00",
+   "t_s": 33600,
+   "source": "CHWRR Table 2",
+   "minutes_after_onset": 42.833333333333336,
+   "arrival": true,
+   "celerity_from_previous_m_s": 18.57611111111111
+  },
+  {
+   "place": "Galchhi",
+   "chainage_km": 105.198,
+   "offset_m": 58.55543039410753,
+   "time": "10:28:00",
+   "t_s": 37680,
+   "source": "CHWRR Table 2",
+   "minutes_after_onset": 110.83333333333333,
+   "arrival": true,
+   "celerity_from_previous_m_s": 8.640686274509804
+  },
+  {
+   "place": "Phurke/Malekhu warning level",
+   "chainage_km": 127.018,
+   "offset_m": 25.22070118150979,
+   "time": "11:26:00",
+   "t_s": 41160,
+   "source": "CHWRR Table 2",
+   "minutes_after_onset": 168.83333333333334,
+   "arrival": true,
+   "celerity_from_previous_m_s": 6.2701149425287355
+  },
+  {
+   "place": "Mugling",
+   "chainage_km": 169.899,
+   "offset_m": 239.40869749618952,
+   "time": "13:00:00",
+   "t_s": 46800,
+   "source": "CHWRR Table 2; HiRISK",
+   "minutes_after_onset": 262.8333333333333,
+   "arrival": true,
+   "celerity_from_previous_m_s": 7.603014184397163
+  },
+  {
+   "place": "Kali Khola danger level (threshold crossing, not arrival)",
+   "chainage_km": 173.03,
+   "offset_m": 42.31560971923376,
+   "time": "14:14:00",
+   "t_s": 51240,
+   "source": "CHWRR Table 2",
+   "minutes_after_onset": 336.8333333333333,
+   "arrival": false,
+   "celerity_from_previous_m_s": NaN
+  },
+  {
+   "place": "Devghat arrival",
+   "chainage_km": 206.808,
+   "offset_m": 544.6289585283123,
+   "time": "15:20:00",
+   "t_s": 55200,
+   "source": "CHWRR Table 2 (peak 16:00)",
+   "minutes_after_onset": 402.8333333333333,
+   "arrival": true,
+   "celerity_from_previous_m_s": 4.393928571428572
+  }
+ ],
+ "lead": [
+  {
+   "scenario": "Seismic-triggered automatic alert (onset + 2 min)",
+   "alert_time": "08:39:10",
+   "destroyed_n": 4530,
+   "pct_destroyed_negative": 0.02207505518763797,
+   "pct_destroyed_ge10": 84.50331125827815,
+   "pct_destroyed_ge30": 73.46578366445917,
+   "pct_destroyed_ge60": 26.5121412803532,
+   "median_lead_destroyed_min": 40.79295889782776
+  },
+  {
+   "scenario": "First official phone warnings (08:46-08:54)",
+   "alert_time": "08:50:00",
+   "destroyed_n": 4530,
+   "pct_destroyed_negative": 16.401766004415013,
+   "pct_destroyed_ge10": 75.38631346578366,
+   "pct_destroyed_ge30": 49.977924944812365,
+   "pct_destroyed_ge60": 21.58940397350993,
+   "median_lead_destroyed_min": 29.95962556449443
+  },
+  {
+   "scenario": "Mass SMS by DHM (09:15)",
+   "alert_time": "09:15:00",
+   "destroyed_n": 4530,
+   "pct_destroyed_negative": 28.807947019867548,
+   "pct_destroyed_ge10": 41.01545253863135,
+   "pct_destroyed_ge30": 23.81898454746137,
+   "pct_destroyed_ge60": 4.9448123620309055,
+   "median_lead_destroyed_min": 4.959625564494429
+  }
+ ],
+ "debris": {
+  "n_buildings": 5781,
+  "debris_central_t": 1041566.136534615,
+  "debris_mc_p05": 435385.81587598793,
+  "debris_mc_p50": 752868.5214656795,
+  "debris_mc_p95": 1215690.9648159083,
+  "debris_no_settlement_factor_t": 525361.2965788188,
+  "bidur_share_central": 0.6004265705137598,
+  "bidur_share_no_factor": 0.4400638648230357,
+  "bidur_share_mc_p05": 0.45455971449149324,
+  "bidur_share_mc_p95": 0.5960380376418597,
+  "density_threshold_urban": 40.5
+ },
+ "danger_zone_buildings": 4868,
+ "danger_zone_surviving": 1541,
+ "danger_zone_pop2026": 6117.9735054084085,
+ "danger_zone_destroyed_captured_pct": 73.44370860927152,
+ "outer_zone_buildings": 7415,
+ "outer_zone_surviving": 3377,
+ "outer_zone_pop2026": 9644.912020508282,
+ "outer_zone_destroyed_captured_pct": 89.13907284768212,
+ "spearman_rdna_vs_sat": 0.4680119678876274,
+ "spearman_rdna_vs_dangerzone": 0.6327378750628389
+}

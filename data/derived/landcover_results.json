@@ -1,0 +1,18 @@
+{
+ "Tree cover": 12.272792071115274,
+ "Shrubland": 0.0,
+ "Grassland": 7.546696779005024,
+ "Cropland": 3.3788505890746725,
+ "Built-up": 1.025539585035528,
+ "Bare or sparse vegetation": 7.107806715222813,
+ "Snow and ice": 1.2904795001927234,
+ "Permanent water": 4.5108043860336196,
+ "Herbaceous wetland": 0.0,
+ "Mangroves": 0.0,
+ "Moss and lichen": 0.2283754434298142,
+ "total_km2": 37.36134506910947,
+ "unosat_area_km2": 37.35419474204083,
+ "cropland_pct": 9.043707026137882,
+ "tree_pct": 32.84890318700671,
+ "builtup_pct": 2.744921477367925
+}

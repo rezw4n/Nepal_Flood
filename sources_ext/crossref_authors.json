@@ -1,0 +1,2805 @@
+{
+ "10.31223/X5HN5H": {
+  "status": 200,
+  "authors": [
+   [
+    "Acharya",
+    "Sunim",
+    ""
+   ]
+  ],
+  "issue": "",
+  "volume": "",
+  "page": "",
+  "container": ""
+ },
+ "10.1038/s43247-026-03352-y": {
+  "status": 200,
+  "authors": [
+   [
+    "Ahmed",
+    "Rayees",
+    ""
+   ],
+   [
+    "Bhardwaj",
+    "Anshuman",
+    ""
+   ],
+   [
+    "Sam",
+    "Lydia",
+    ""
+   ],
+   [
+    "Van Tricht",
+    "Lander",
+    ""
+   ]
+  ],
+  "issue": "1",
+  "volume": "7",
+  "page": "",
+  "container": "Communications Earth &amp; Environment"
+ },
+ "10.5194/nhess-22-3765-2022": {
+  "status": 200,
+  "authors": [
+   [
+    "Allen",
+    "Simon K.",
+    ""
+   ],
+   [
+    "Sattar",
+    "Ashim",
+    ""
+   ],
+   [
+    "King",
+    "Owen",
+    ""
+   ],
+   [
+    "Zhang",
+    "Guoqing",
+    ""
+   ],
+   [
+    "Bhattacharya",
+    "Atanu",
+    ""
+   ],
+   [
+    "Yao",
+    "Tandong",
+    ""
+   ],
+   [
+    "Bolch",
+    "Tobias",
+    ""
+   ]
+  ],
+  "issue": "11",
+  "volume": "22",
+  "page": "3765-3785",
+  "container": "Natural Hazards and Earth System Sciences"
+ },
+ "10.1016/j.cageo.2013.04.024": {
+  "status": 200,
+  "authors": [
+   [
+    "Barnes",
+    "Richard",
+    ""
+   ],
+   [
+    "Lehman",
+    "Clarence",
+    ""
+   ],
+   [
+    "Mulla",
+    "David",
+    ""
+   ]
+  ],
+  "issue": "",
+  "volume": "62",
+  "page": "117-127",
+  "container": "Computers &amp; Geosciences"
+ },
+ "10.5194/essd-2026-481": {
+  "status": 200,
+  "authors": [
+   [
+    "Bashkova",
+    "Ekaterina",
+    ""
+   ],
+   [
+    "Rupper",
+    "Summer B.",
+    ""
+   ],
+   [
+    "Shugar",
+    "Dan H.",
+    ""
+   ],
+   [
+    "Forster",
+    "Richard R.",
+    ""
+   ]
+  ],
+  "issue": "",
+  "volume": "",
+  "page": "",
+  "container": ""
+ },
+ "10.1038/s41561-024-01596-x": {
+  "status": 200,
+  "authors": [
+   [
+    "Chen",
+    "Chan-Mao",
+    ""
+   ],
+   [
+    "Hollingsworth",
+    "James",
+    ""
+   ],
+   [
+    "Clark",
+    "Marin K.",
+    ""
+   ],
+   [
+    "Chamlagain",
+    "Deepak",
+    ""
+   ],
+   [
+    "Bista",
+    "Sujata",
+    ""
+   ],
+   [
+    "Zekkos",
+    "Dimitrios",
+    ""
+   ],
+   [
+    "Siwakoti",
+    "Anuj",
+    ""
+   ],
+   [
+    "West",
+    "A. Joshua",
+    ""
+   ]
+  ],
+  "issue": "1",
+  "volume": "18",
+  "page": "32-36",
+  "container": "Nature Geoscience"
+ },
+ "10.1177/001316446002000104": {
+  "status": 200,
+  "authors": [
+   [
+    "Cohen",
+    "Jacob",
+    ""
+   ]
+  ],
+  "issue": "1",
+  "volume": "20",
+  "page": "37-46",
+  "container": "Educational and Psychological Measurement"
+ },
+ "10.1126/science.aat4981": {
+  "status": 200,
+  "authors": [
+   [
+    "Cook",
+    "Kristen L.",
+    ""
+   ],
+   [
+    "Andermann",
+    "Christoff",
+    ""
+   ],
+   [
+    "Gimbert",
+    "Florent",
+    ""
+   ],
+   [
+    "Adhikari",
+    "Basanta Raj",
+    ""
+   ],
+   [
+    "Hovius",
+    "Niels",
+    ""
+   ]
+  ],
+  "issue": "6410",
+  "volume": "362",
+  "page": "53-57",
+  "container": "Science"
+ },
+ "10.5270/ESA-c5d3d65": {
+  "status": 200,
+  "authors": [
+   [
+    "",
+    "",
+    "European Space Agency"
+   ],
+   [
+    "",
+    "",
+    "Airbus"
+   ]
+  ],
+  "issue": "",
+  "volume": "",
+  "page": "",
+  "container": "Copernicus DEM"
+ },
+ "10.5194/isprs-annals-XI-2-2026-831-2026": {
+  "status": 200,
+  "authors": [
+   [
+    "Dietrich",
+    "Olivier",
+    ""
+   ],
+   [
+    "Alfredsson",
+    "Merlin",
+    ""
+   ],
+   [
+    "Arens",
+    "Emilia",
+    ""
+   ],
+   [
+    "Metzger",
+    "Nando",
+    ""
+   ],
+   [
+    "Peters",
+    "Torben",
+    ""
+   ],
+   [
+    "Scheibenreif",
+    "Linus",
+    ""
+   ],
+   [
+    "Wegner",
+    "Jan Dirk",
+    ""
+   ],
+   [
+    "Schindler",
+    "Konrad",
+    ""
+   ]
+  ],
+  "issue": "",
+  "volume": "XI-2-2026",
+  "page": "831-838",
+  "container": "ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences"
+ },
+ "10.1016/j.rse.2011.11.026": {
+  "status": 200,
+  "authors": [
+   [
+    "Drusch",
+    "M.",
+    ""
+   ],
+   [
+    "Del Bello",
+    "U.",
+    ""
+   ],
+   [
+    "Carlier",
+    "S.",
+    ""
+   ],
+   [
+    "Colin",
+    "O.",
+    ""
+   ],
+   [
+    "Fernandez",
+    "V.",
+    ""
+   ],
+   [
+    "Gascon",
+    "F.",
+    ""
+   ],
+   [
+    "Hoersch",
+    "B.",
+    ""
+   ],
+   [
+    "Isola",
+    "C.",
+    ""
+   ],
+   [
+    "Laberinti",
+    "P.",
+    ""
+   ],
+   [
+    "Martimort",
+    "P.",
+    ""
+   ],
+   [
+    "Meygret",
+    "A.",
+    ""
+   ],
+   [
+    "Spoto",
+    "F.",
+    ""
+   ],
+   [
+    "Sy",
+    "O.",
+    ""
+   ],
+   [
+    "Marchese",
+    "F.",
+    ""
+   ],
+   [
+    "Bargellini",
+    "P.",
+    ""
+   ]
+  ],
+  "issue": "",
+  "volume": "120",
+  "page": "25-36",
+  "container": "Remote Sensing of Environment"
+ },
+ "10.63253/bkdj361r": {
+  "status": 200,
+  "authors": [
+   [
+    "",
+    "",
+    "Intergovernmental Hydrological Programme"
+   ]
+  ],
+  "issue": "",
+  "volume": "",
+  "page": "",
+  "container": "Dataset"
+ },
+ "10.1201/9780429246593": {
+  "status": 200,
+  "authors": [
+   [
+    "Efron",
+    "Bradley",
+    ""
+   ],
+   [
+    "Tibshirani",
+    "R.J.",
+    ""
+   ]
+  ],
+  "issue": "",
+  "volume": "",
+  "page": "",
+  "container": ""
+ },
+ "10.1214/aos/1013203451": {
+  "status": 200,
+  "authors": [
+   [
+    "Friedman",
+    "Jerome H.",
+    ""
+   ]
+  ],
+  "issue": "5",
+  "volume": "29",
+  "page": "1189-1232",
+  "container": "The Annals of Statistics"
+ },
+ "10.5194/nhess-7-495-2007": {
+  "status": 200,
+  "authors": [
+   [
+    "Fuchs",
+    "S.",
+    ""
+   ],
+   [
+    "Heiss",
+    "K.",
+    ""
+   ],
+   [
+    "Hübl",
+    "J.",
+    ""
+   ]
+  ],
+  "issue": "5",
+  "volume": "7",
+  "page": "495-506",
+  "container": "Natural Hazards and Earth System Sciences"
+ },
+ "10.2905/9F06F36F-4B11-47EC-ABB0-4F8B7B1D72EA": {
+  "status": 404
+ },
+ "10.1029/2019WR024837": {
+  "status": 200,
+  "authors": [
+   [
+    "Garousi‐Nejad",
+    "Irene",
+    ""
+   ],
+   [
+    "Tarboton",
+    "David G.",
+    ""
+   ],
+   [
+    "Aboutalebi",
+    "Mahyar",
+    ""
+   ],
+   [
+    "Torres‐Rua",
+    "Alfonso F.",
+    ""
+   ]
+  ],
+  "issue": "10",
+  "volume": "55",
+  "page": "7983-8009",
+  "container": "Water Resources Research"
+ },
+ "10.1111/tgis.12825": {
+  "status": 200,
+  "authors": [
+   [
+    "Guth",
+    "Peter L.",
+    ""
+   ],
+   [
+    "Geoffroy",
+    "Tera M.",
+    ""
+   ]
+  ],
+  "issue": "5",
+  "volume": "25",
+  "page": "2245-2261",
+  "container": "Transactions in GIS"
+ },
+ "10.1109/MPRV.2008.80": {
+  "status": 200,
+  "authors": [
+   [
+    "Haklay",
+    "M.",
+    ""
+   ],
+   [
+    "Weber",
+    "P.",
+    ""
+   ]
+  ],
+  "issue": "4",
+  "volume": "7",
+  "page": "12-18",
+  "container": "IEEE Pervasive Computing"
+ },
+ "10.1038/s41467-023-39698-6": {
+  "status": 200,
+  "authors": [
+   [
+    "Herfort",
+    "Benjamin",
+    ""
+   ],
+   [
+    "Lautenbach",
+    "Sven",
+    ""
+   ],
+   [
+    "Porto de Albuquerque",
+    "João",
+    ""
+   ],
+   [
+    "Anderson",
+    "Jennings",
+    ""
+   ],
+   [
+    "Zipf",
+    "Alexander",
+    ""
+   ]
+  ],
+  "issue": "1",
+  "volume": "14",
+  "page": "",
+  "container": "Nature Communications"
+ },
+ "10.1017/9781009157964.004": {
+  "status": 200,
+  "authors": [],
+  "issue": "",
+  "volume": "",
+  "page": "131-202",
+  "container": "The Ocean and Cryosphere in a Changing Climate"
+ },
+ "10.1007/s11222-021-10057-z": {
+  "status": 200,
+  "authors": [
+   [
+    "Hooker",
+    "Giles",
+    ""
+   ],
+   [
+    "Mentch",
+    "Lucas",
+    ""
+   ],
+   [
+    "Zhou",
+    "Siyu",
+    ""
+   ]
+  ],
+  "issue": "6",
+  "volume": "31",
+  "page": "",
+  "container": "Statistics and Computing"
+ },
+ "10.53055/ICIMOD.1150": {
+  "status": 200,
+  "authors": [
+   [
+    "ICIMOD",
+    "",
+    ""
+   ]
+  ],
+  "issue": "",
+  "volume": "",
+  "page": "",
+  "container": ""
+ },
+ "10.1007/s11069-011-0007-2": {
+  "status": 200,
+  "authors": [
+   [
+    "Jakob",
+    "M.",
+    ""
+   ],
+   [
+    "Stein",
+    "D.",
+    ""
+   ],
+   [
+    "Ulmi",
+    "M.",
+    ""
+   ]
+  ],
+  "issue": "2",
+  "volume": "60",
+  "page": "241-261",
+  "container": "Natural Hazards"
+ },
+ "10.1007/s11069-015-2032-z": {
+  "status": 200,
+  "authors": [
+   [
+    "Kang",
+    "Hyo-sub",
+    ""
+   ],
+   [
+    "Kim",
+    "Yun-tae",
+    ""
+   ]
+  ],
+  "issue": "3",
+  "volume": "80",
+  "page": "1475-1493",
+  "container": "Natural Hazards"
+ },
+ "10.5194/nhess-26-4131-2026": {
+  "status": 200,
+  "authors": [
+   [
+    "Khadka",
+    "Nitesh",
+    ""
+   ],
+   [
+    "Pandey",
+    "Vishnu Prasad",
+    ""
+   ],
+   [
+    "Watson",
+    "C. Scott",
+    ""
+   ],
+   [
+    "Zheng",
+    "Guoxiong",
+    ""
+   ],
+   [
+    "Wu",
+    "Tianpei",
+    ""
+   ],
+   [
+    "Sharma",
+    "Keshab",
+    ""
+   ],
+   [
+    "Rawlins",
+    "Lauren D.",
+    ""
+   ],
+   [
+    "Allen",
+    "Simon",
+    ""
+   ],
+   [
+    "Gouli",
+    "Manish Raj",
+    ""
+   ],
+   [
+    "Shrestha",
+    "Dibas",
+    ""
+   ]
+  ],
+  "issue": "8",
+  "volume": "26",
+  "page": "4131-4152",
+  "container": "Natural Hazards and Earth System Sciences"
+ },
+ "10.3389/feart.2019.00197": {
+  "status": 200,
+  "authors": [
+   [
+    "Kirschbaum",
+    "Dalia",
+    ""
+   ],
+   [
+    "Watson",
+    "C. Scott",
+    ""
+   ],
+   [
+    "Rounce",
+    "David R.",
+    ""
+   ],
+   [
+    "Shugar",
+    "Dan H.",
+    ""
+   ],
+   [
+    "Kargel",
+    "Jeffrey S.",
+    ""
+   ],
+   [
+    "Haritashya",
+    "Umesh K.",
+    ""
+   ],
+   [
+    "Amatya",
+    "Pukar",
+    ""
+   ],
+   [
+    "Shean",
+    "David",
+    ""
+   ],
+   [
+    "Anderson",
+    "Eric R.",
+    ""
+   ],
+   [
+    "Jo",
+    "Minjeong",
+    ""
+   ]
+  ],
+  "issue": "",
+  "volume": "7",
+  "page": "",
+  "container": "Frontiers in Earth Science"
+ },
+ "10.1214/aos/1176347265": {
+  "status": 200,
+  "authors": [
+   [
+    "Kunsch",
+    "Hans R.",
+    ""
+   ]
+  ],
+  "issue": "3",
+  "volume": "17",
+  "page": "1217-1241",
+  "container": "The Annals of Statistics"
+ },
+ "10.1038/s41561-022-00953-y": {
+  "status": 200,
+  "authors": [
+   [
+    "Li",
+    "Dongfeng",
+    ""
+   ],
+   [
+    "Lu",
+    "Xixi",
+    ""
+   ],
+   [
+    "Walling",
+    "Desmond E.",
+    ""
+   ],
+   [
+    "Zhang",
+    "Ting",
+    ""
+   ],
+   [
+    "Steiner",
+    "Jakob F.",
+    ""
+   ],
+   [
+    "Wasson",
+    "Robert J.",
+    ""
+   ],
+   [
+    "Harrison",
+    "Stephan",
+    ""
+   ],
+   [
+    "Nepal",
+    "Santosh",
+    ""
+   ],
+   [
+    "Nie",
+    "Yong",
+    ""
+   ],
+   [
+    "Immerzeel",
+    "Walter W.",
+    ""
+   ],
+   [
+    "Shugar",
+    "Dan H.",
+    ""
+   ],
+   [
+    "Koppes",
+    "Michèle",
+    ""
+   ],
+   [
+    "Lane",
+    "Stuart",
+    ""
+   ],
+   [
+    "Zeng",
+    "Zhenzhong",
+    ""
+   ],
+   [
+    "Sun",
+    "Xiaofei",
+    ""
+   ],
+   [
+    "Yegorov",
+    "Alexandr",
+    ""
+   ],
+   [
+    "Bolch",
+    "Tobias",
+    ""
+   ]
+  ],
+  "issue": "7",
+  "volume": "15",
+  "page": "520-530",
+  "container": "Nature Geoscience"
+ },
+ "10.48550/arXiv.2609.04563": {
+  "status": 404
+ },
+ "10.1016/j.earscirev.2023.104329": {
+  "status": 200,
+  "authors": [
+   [
+    "Luo",
+    "H.Y.",
+    ""
+   ],
+   [
+    "Zhang",
+    "L.M.",
+    ""
+   ],
+   [
+    "Zhang",
+    "L.L.",
+    ""
+   ],
+   [
+    "He",
+    "J.",
+    ""
+   ],
+   [
+    "Yin",
+    "K.S.",
+    ""
+   ]
+  ],
+  "issue": "",
+  "volume": "238",
+  "page": "104329",
+  "container": "Earth-Science Reviews"
+ },
+ "10.53055/ICIMOD.981": {
+  "status": 200,
+  "authors": [
+   [
+    "Bikash Maharjan",
+    "Sudan",
+    ""
+   ],
+   [
+    "Friedrich Steiner",
+    "Jakob",
+    ""
+   ],
+   [
+    "Bhakta Shrestha",
+    "Arun",
+    ""
+   ],
+   [
+    "Maharjan",
+    "Amina",
+    ""
+   ],
+   [
+    "Nepal",
+    "Santosh",
+    ""
+   ]
+  ],
+  "issue": "",
+  "volume": "",
+  "page": "",
+  "container": ""
+ },
+ "10.1029/2022RG000791": {
+  "status": 200,
+  "authors": [
+   [
+    "Mani",
+    "Peter",
+    ""
+   ],
+   [
+    "Allen",
+    "Simon",
+    ""
+   ],
+   [
+    "Evans",
+    "Stephen G.",
+    ""
+   ],
+   [
+    "Kargel",
+    "Jeffrey S.",
+    ""
+   ],
+   [
+    "Mergili",
+    "Martin",
+    ""
+   ],
+   [
+    "Petrakov",
+    "Dmitry",
+    ""
+   ],
+   [
+    "Stoffel",
+    "Markus",
+    ""
+   ]
+  ],
+  "issue": "4",
+  "volume": "61",
+  "page": "",
+  "container": "Reviews of Geophysics"
+ },
+ "10.5194/nhess-18-3203-2018": {
+  "status": 200,
+  "authors": [
+   [
+    "McAdoo",
+    "Brian G.",
+    ""
+   ],
+   [
+    "Quak",
+    "Michelle",
+    ""
+   ],
+   [
+    "Gnyawali",
+    "Kaushal R.",
+    ""
+   ],
+   [
+    "Adhikari",
+    "Basanta R.",
+    ""
+   ],
+   [
+    "Devkota",
+    "Sanjaya",
+    ""
+   ],
+   [
+    "Rajbhandari",
+    "Purna Lal",
+    ""
+   ],
+   [
+    "Sudmeier-Rieux",
+    "Karen",
+    ""
+   ]
+  ],
+  "issue": "12",
+  "volume": "18",
+  "page": "3203-3210",
+  "container": "Natural Hazards and Earth System Sciences"
+ },
+ "10.5194/nhess-10-1697-2010": {
+  "status": 200,
+  "authors": [
+   [
+    "Merz",
+    "B.",
+    ""
+   ],
+   [
+    "Kreibich",
+    "H.",
+    ""
+   ],
+   [
+    "Schwarze",
+    "R.",
+    ""
+   ],
+   [
+    "Thieken",
+    "A.",
+    ""
+   ]
+  ],
+  "issue": "8",
+  "volume": "10",
+  "page": "1697-1724",
+  "container": "Natural Hazards and Earth System Sciences"
+ },
+ "10.1038/s41467-022-29838-9": {
+  "status": 200,
+  "authors": [
+   [
+    "Meyer",
+    "Hanna",
+    ""
+   ],
+   [
+    "Pebesma",
+    "Edzer",
+    ""
+   ]
+  ],
+  "issue": "1",
+  "volume": "13",
+  "page": "",
+  "container": "Nature Communications"
+ },
+ "10.1016/j.jhydrol.2011.03.051": {
+  "status": 200,
+  "authors": [
+   [
+    "Nobre",
+    "A.D.",
+    ""
+   ],
+   [
+    "Cuartas",
+    "L.A.",
+    ""
+   ],
+   [
+    "Hodnett",
+    "M.",
+    ""
+   ],
+   [
+    "Rennó",
+    "C.D.",
+    ""
+   ],
+   [
+    "Rodrigues",
+    "G.",
+    ""
+   ],
+   [
+    "Silveira",
+    "A.",
+    ""
+   ],
+   [
+    "Waterloo",
+    "M.",
+    ""
+   ],
+   [
+    "Saleska",
+    "S.",
+    ""
+   ]
+  ],
+  "issue": "1-2",
+  "volume": "404",
+  "page": "13-29",
+  "container": "Journal of Hydrology"
+ },
+ "10.1016/S0734-189X(84)80011-0": {
+  "status": 200,
+  "authors": [
+   [
+    "O'Callaghan",
+    "John F.",
+    ""
+   ],
+   [
+    "Mark",
+    "David M.",
+    ""
+   ]
+  ],
+  "issue": "3",
+  "volume": "28",
+  "page": "323-344",
+  "container": "Computer Vision, Graphics, and Image Processing"
+ },
+ "10.1787/9789264043466-en": {
+  "status": 200,
+  "authors": [
+   [
+    "",
+    "",
+    "OECD"
+   ],
+   [
+    "",
+    "",
+    "European Union"
+   ],
+   [
+    "",
+    "",
+    "Joint Research Centre - European Commission"
+   ]
+  ],
+  "issue": "",
+  "volume": "",
+  "page": "",
+  "container": ""
+ },
+ "10.1016/j.rse.2014.02.015": {
+  "status": 200,
+  "authors": [
+   [
+    "Olofsson",
+    "Pontus",
+    ""
+   ],
+   [
+    "Foody",
+    "Giles M.",
+    ""
+   ],
+   [
+    "Herold",
+    "Martin",
+    ""
+   ],
+   [
+    "Stehman",
+    "Stephen V.",
+    ""
+   ],
+   [
+    "Woodcock",
+    "Curtis E.",
+    ""
+   ],
+   [
+    "Wulder",
+    "Michael A.",
+    ""
+   ]
+  ],
+  "issue": "",
+  "volume": "148",
+  "page": "42-57",
+  "container": "Remote Sensing of Environment"
+ },
+ "10.1016/j.earscirev.2017.06.007": {
+  "status": 200,
+  "authors": [
+   [
+    "Papathoma-Köhle",
+    "Maria",
+    ""
+   ],
+   [
+    "Gems",
+    "Bernhard",
+    ""
+   ],
+   [
+    "Sturm",
+    "Michael",
+    ""
+   ],
+   [
+    "Fuchs",
+    "Sven",
+    ""
+   ]
+  ],
+  "issue": "",
+  "volume": "171",
+  "page": "272-288",
+  "container": "Earth-Science Reviews"
+ },
+ "10.1080/17538947.2024.2390454": {
+  "status": 200,
+  "authors": [
+   [
+    "Pesaresi",
+    "Martino",
+    ""
+   ],
+   [
+    "Schiavina",
+    "Marcello",
+    ""
+   ],
+   [
+    "Politis",
+    "Panagiotis",
+    ""
+   ],
+   [
+    "Freire",
+    "Sergio",
+    ""
+   ],
+   [
+    "Krasnodębska",
+    "Katarzyna",
+    ""
+   ],
+   [
+    "Uhl",
+    "Johannes H.",
+    ""
+   ],
+   [
+    "Carioli",
+    "Alessandra",
+    ""
+   ],
+   [
+    "Corbane",
+    "Christina",
+    ""
+   ],
+   [
+    "Dijkstra",
+    "Lewis",
+    ""
+   ],
+   [
+    "Florio",
+    "Pietro",
+    ""
+   ],
+   [
+    "Friedrich",
+    "Hannah K.",
+    ""
+   ],
+   [
+    "Gao",
+    "Jing",
+    ""
+   ],
+   [
+    "Leyk",
+    "Stefan",
+    ""
+   ],
+   [
+    "Lu",
+    "Linlin",
+    ""
+   ],
+   [
+    "Maffenini",
+    "Luca",
+    ""
+   ],
+   [
+    "Mari-Rivero",
+    "Ines",
+    ""
+   ],
+   [
+    "Melchiorri",
+    "Michele",
+    ""
+   ],
+   [
+    "Syrris",
+    "Vasileios",
+    ""
+   ],
+   [
+    "Van Den Hoek",
+    "Jamon",
+    ""
+   ],
+   [
+    "Kemper",
+    "Thomas",
+    ""
+   ]
+  ],
+  "issue": "1",
+  "volume": "17",
+  "page": "",
+  "container": "International Journal of Digital Earth"
+ },
+ "10.1038/s41467-020-18321-y": {
+  "status": 200,
+  "authors": [
+   [
+    "Ploton",
+    "Pierre",
+    ""
+   ],
+   [
+    "Mortier",
+    "Frédéric",
+    ""
+   ],
+   [
+    "Réjou-Méchain",
+    "Maxime",
+    ""
+   ],
+   [
+    "Barbier",
+    "Nicolas",
+    ""
+   ],
+   [
+    "Picard",
+    "Nicolas",
+    ""
+   ],
+   [
+    "Rossi",
+    "Vivien",
+    ""
+   ],
+   [
+    "Dormann",
+    "Carsten",
+    ""
+   ],
+   [
+    "Cornu",
+    "Guillaume",
+    ""
+   ],
+   [
+    "Viennois",
+    "Gaëlle",
+    ""
+   ],
+   [
+    "Bayol",
+    "Nicolas",
+    ""
+   ],
+   [
+    "Lyapustin",
+    "Alexei",
+    ""
+   ],
+   [
+    "Gourlet-Fleury",
+    "Sylvie",
+    ""
+   ],
+   [
+    "Pélissier",
+    "Raphaël",
+    ""
+   ]
+  ],
+  "issue": "1",
+  "volume": "11",
+  "page": "",
+  "container": "Nature Communications"
+ },
+ "10.1016/j.enggeo.2018.03.014": {
+  "status": 200,
+  "authors": [
+   [
+    "Prieto",
+    "Jorge A.",
+    ""
+   ],
+   [
+    "Journeay",
+    "Murray",
+    ""
+   ],
+   [
+    "Acevedo",
+    "Ana B.",
+    ""
+   ],
+   [
+    "Arbelaez",
+    "Juan D.",
+    ""
+   ],
+   [
+    "Ulmi",
+    "Malaika",
+    ""
+   ]
+  ],
+  "issue": "",
+  "volume": "239",
+  "page": "144-157",
+  "container": "Engineering Geology"
+ },
+ "10.1016/j.rse.2008.03.018": {
+  "status": 200,
+  "authors": [
+   [
+    "Rennó",
+    "Camilo Daleles",
+    ""
+   ],
+   [
+    "Nobre",
+    "Antonio Donato",
+    ""
+   ],
+   [
+    "Cuartas",
+    "Luz Adriana",
+    ""
+   ],
+   [
+    "Soares",
+    "João Vianei",
+    ""
+   ],
+   [
+    "Hodnett",
+    "Martin G.",
+    ""
+   ],
+   [
+    "Tomasella",
+    "Javier",
+    ""
+   ],
+   [
+    "Waterloo",
+    "Maarten J.",
+    ""
+   ]
+  ],
+  "issue": "9",
+  "volume": "112",
+  "page": "3469-3481",
+  "container": "Remote Sensing of Environment"
+ },
+ "10.1038/s41586-023-06468-9": {
+  "status": 200,
+  "authors": [
+   [
+    "Rentschler",
+    "Jun",
+    ""
+   ],
+   [
+    "Avner",
+    "Paolo",
+    ""
+   ],
+   [
+    "Marconcini",
+    "Mattia",
+    ""
+   ],
+   [
+    "Su",
+    "Rui",
+    ""
+   ],
+   [
+    "Strano",
+    "Emanuele",
+    ""
+   ],
+   [
+    "Vousdoukas",
+    "Michalis",
+    ""
+   ],
+   [
+    "Hallegatte",
+    "Stéphane",
+    ""
+   ]
+  ],
+  "issue": "7981",
+  "volume": "622",
+  "page": "87-92",
+  "container": "Nature"
+ },
+ "10.1111/ecog.02881": {
+  "status": 200,
+  "authors": [
+   [
+    "Roberts",
+    "David R.",
+    ""
+   ],
+   [
+    "Bahn",
+    "Volker",
+    ""
+   ],
+   [
+    "Ciuti",
+    "Simone",
+    ""
+   ],
+   [
+    "Boyce",
+    "Mark S.",
+    ""
+   ],
+   [
+    "Elith",
+    "Jane",
+    ""
+   ],
+   [
+    "Guillera‐Arroita",
+    "Gurutzeta",
+    ""
+   ],
+   [
+    "Hauenstein",
+    "Severin",
+    ""
+   ],
+   [
+    "Lahoz‐Monfort",
+    "José J.",
+    ""
+   ],
+   [
+    "Schröder",
+    "Boris",
+    ""
+   ],
+   [
+    "Thuiller",
+    "Wilfried",
+    ""
+   ],
+   [
+    "Warton",
+    "David I.",
+    ""
+   ],
+   [
+    "Wintle",
+    "Brendan A.",
+    ""
+   ],
+   [
+    "Hartig",
+    "Florian",
+    ""
+   ],
+   [
+    "Dormann",
+    "Carsten F.",
+    ""
+   ]
+  ],
+  "issue": "8",
+  "volume": "40",
+  "page": "913-929",
+  "container": "Ecography"
+ },
+ "10.1007/s12524-026-02611-x": {
+  "status": 200,
+  "authors": [
+   [
+    "Roy",
+    "Priyom",
+    ""
+   ],
+   [
+    "Majumdar",
+    "Ritwik",
+    ""
+   ],
+   [
+    "Chauhan",
+    "Prakash",
+    ""
+   ],
+   [
+    "Jalan",
+    "Punit",
+    ""
+   ],
+   [
+    "Pradhan",
+    "Gyanasmita",
+    ""
+   ],
+   [
+    "Srivastava",
+    "Divyansh",
+    ""
+   ],
+   [
+    "Martha",
+    "Tapas Ranjan",
+    ""
+   ],
+   [
+    "Reddy",
+    "P. Sashivardhan",
+    ""
+   ],
+   [
+    "Sharma",
+    "S. V. S. P.",
+    ""
+   ],
+   [
+    "Suresh Babu",
+    "A. V.",
+    ""
+   ],
+   [
+    "Das",
+    "Iswar Chandra",
+    ""
+   ],
+   [
+    "Durga Rao",
+    "K. H. V.",
+    ""
+   ]
+  ],
+  "issue": "",
+  "volume": "",
+  "page": "",
+  "container": "Journal of the Indian Society of Remote Sensing"
+ },
+ "10.1371/journal.pone.0231866": {
+  "status": 200,
+  "authors": [
+   [
+    "Runfola",
+    "Daniel",
+    ""
+   ],
+   [
+    "Anderson",
+    "Austin",
+    ""
+   ],
+   [
+    "Baier",
+    "Heather",
+    ""
+   ],
+   [
+    "Crittenden",
+    "Matt",
+    ""
+   ],
+   [
+    "Dowker",
+    "Elizabeth",
+    ""
+   ],
+   [
+    "Fuhrig",
+    "Sydney",
+    ""
+   ],
+   [
+    "Goodman",
+    "Seth",
+    ""
+   ],
+   [
+    "Grimsley",
+    "Grace",
+    ""
+   ],
+   [
+    "Layko",
+    "Rachel",
+    ""
+   ],
+   [
+    "Melville",
+    "Graham",
+    ""
+   ],
+   [
+    "Mulder",
+    "Maddy",
+    ""
+   ],
+   [
+    "Oberman",
+    "Rachel",
+    ""
+   ],
+   [
+    "Panganiban",
+    "Joshua",
+    ""
+   ],
+   [
+    "Peck",
+    "Andrew",
+    ""
+   ],
+   [
+    "Seitz",
+    "Leigh",
+    ""
+   ],
+   [
+    "Shea",
+    "Sylvia",
+    ""
+   ],
+   [
+    "Slevin",
+    "Hannah",
+    ""
+   ],
+   [
+    "Youngerman",
+    "Rebecca",
+    ""
+   ],
+   [
+    "Hobbs",
+    "Lauren",
+    ""
+   ]
+  ],
+  "issue": "4",
+  "volume": "15",
+  "page": "e0231866",
+  "container": "PLOS ONE"
+ },
+ "10.1111/j.1467-985X.2005.00350.x": {
+  "status": 200,
+  "authors": [
+   [
+    "Saisana",
+    "M.",
+    ""
+   ],
+   [
+    "Saltelli",
+    "A.",
+    ""
+   ],
+   [
+    "Tarantola",
+    "S.",
+    ""
+   ]
+  ],
+  "issue": "2",
+  "volume": "168",
+  "page": "307-323",
+  "container": "Journal of the Royal Statistical Society Series A: Statistics in Society"
+ },
+ "10.1126/science.ads2659": {
+  "status": 200,
+  "authors": [
+   [
+    "Sattar",
+    "Ashim",
+    ""
+   ],
+   [
+    "Cook",
+    "Kristen L.",
+    ""
+   ],
+   [
+    "Rai",
+    "Shashi Kant",
+    ""
+   ],
+   [
+    "Berthier",
+    "Etienne",
+    ""
+   ],
+   [
+    "Allen",
+    "Simon",
+    ""
+   ],
+   [
+    "Rinzin",
+    "Sonam",
+    ""
+   ],
+   [
+    "de Vries",
+    "Maximillian Van Wyk",
+    ""
+   ],
+   [
+    "Haeberli",
+    "Wilfried",
+    ""
+   ],
+   [
+    "Kushwaha",
+    "Pradeep",
+    ""
+   ],
+   [
+    "Shugar",
+    "Dan H.",
+    ""
+   ],
+   [
+    "Emmer",
+    "Adam",
+    ""
+   ],
+   [
+    "Haritashya",
+    "Umesh K.",
+    ""
+   ],
+   [
+    "Frey",
+    "Holger",
+    ""
+   ],
+   [
+    "Rao",
+    "Praful",
+    ""
+   ],
+   [
+    "Gurudin",
+    "Kori Sanjay Kumar",
+    ""
+   ],
+   [
+    "Rai",
+    "Prabhakar",
+    ""
+   ],
+   [
+    "Rajak",
+    "Rajeev",
+    ""
+   ],
+   [
+    "Hossain",
+    "Faruk",
+    ""
+   ],
+   [
+    "Huggel",
+    "Christian",
+    ""
+   ],
+   [
+    "Mergili",
+    "Martin",
+    ""
+   ],
+   [
+    "Azam",
+    "Mohd. Farooq",
+    ""
+   ],
+   [
+    "Gascoin",
+    "Simon",
+    ""
+   ],
+   [
+    "Carrivick",
+    "Jonathan L.",
+    ""
+   ],
+   [
+    "Bell",
+    "Louie Elliot",
+    ""
+   ],
+   [
+    "Ranjan",
+    "Rakesh Kumar",
+    ""
+   ],
+   [
+    "Rashid",
+    "Irfan",
+    ""
+   ],
+   [
+    "Kulkarni",
+    "Anil. V.",
+    ""
+   ],
+   [
+    "Petley",
+    "Dave",
+    ""
+   ],
+   [
+    "Schwanghart",
+    "Wolfgang",
+    ""
+   ],
+   [
+    "Watson",
+    "C. Scott",
+    ""
+   ],
+   [
+    "Islam",
+    "Nazimul",
+    ""
+   ],
+   [
+    "Gupta",
+    "Moushumi Das",
+    ""
+   ],
+   [
+    "Lane",
+    "Stuart N.",
+    ""
+   ],
+   [
+    "Bhat",
+    "Shahid Younis",
+    ""
+   ]
+  ],
+  "issue": "6740",
+  "volume": "387",
+  "page": "",
+  "container": "Science"
+ },
+ "10.1088/1748-9326/11/7/074005": {
+  "status": 200,
+  "authors": [
+   [
+    "Schwanghart",
+    "Wolfgang",
+    ""
+   ],
+   [
+    "Worni",
+    "Raphael",
+    ""
+   ],
+   [
+    "Huggel",
+    "Christian",
+    ""
+   ],
+   [
+    "Stoffel",
+    "Markus",
+    ""
+   ],
+   [
+    "Korup",
+    "Oliver",
+    ""
+   ]
+  ],
+  "issue": "7",
+  "volume": "11",
+  "page": "074005",
+  "container": "Environmental Research Letters"
+ },
+ "10.25080/Majora-92bf1922-011": {
+  "status": 200,
+  "authors": [
+   [
+    "Seabold",
+    "Skipper",
+    ""
+   ],
+   [
+    "Perktold",
+    "Josef",
+    ""
+   ]
+  ],
+  "issue": "",
+  "volume": "",
+  "page": "92-96",
+  "container": "Proceedings of the Python in Science Conference"
+ },
+ "10.1126/science.abh4455": {
+  "status": 200,
+  "authors": [
+   [
+    "Shugar",
+    "D. H.",
+    ""
+   ],
+   [
+    "Jacquemart",
+    "M.",
+    ""
+   ],
+   [
+    "Shean",
+    "D.",
+    ""
+   ],
+   [
+    "Bhushan",
+    "S.",
+    ""
+   ],
+   [
+    "Upadhyay",
+    "K.",
+    ""
+   ],
+   [
+    "Sattar",
+    "A.",
+    ""
+   ],
+   [
+    "Schwanghart",
+    "W.",
+    ""
+   ],
+   [
+    "McBride",
+    "S.",
+    ""
+   ],
+   [
+    "de Vries",
+    "M. Van Wyk",
+    ""
+   ],
+   [
+    "Mergili",
+    "M.",
+    ""
+   ],
+   [
+    "Emmer",
+    "A.",
+    ""
+   ],
+   [
+    "Deschamps-Berger",
+    "C.",
+    ""
+   ],
+   [
+    "McDonnell",
+    "M.",
+    ""
+   ],
+   [
+    "Bhambri",
+    "R.",
+    ""
+   ],
+   [
+    "Allen",
+    "S.",
+    ""
+   ],
+   [
+    "Berthier",
+    "E.",
+    ""
+   ],
+   [
+    "Carrivick",
+    "J. L.",
+    ""
+   ],
+   [
+    "Clague",
+    "J. J.",
+    ""
+   ],
+   [
+    "Dokukin",
+    "M.",
+    ""
+   ],
+   [
+    "Dunning",
+    "S. A.",
+    ""
+   ],
+   [
+    "Frey",
+    "H.",
+    ""
+   ],
+   [
+    "Gascoin",
+    "S.",
+    ""
+   ],
+   [
+    "Haritashya",
+    "U. K.",
+    ""
+   ],
+   [
+    "Huggel",
+    "C.",
+    ""
+   ],
+   [
+    "Kääb",
+    "A.",
+    ""
+   ],
+   [
+    "Kargel",
+    "J. S.",
+    ""
+   ],
+   [
+    "Kavanaugh",
+    "J. L.",
+    ""
+   ],
+   [
+    "Lacroix",
+    "P.",
+    ""
+   ],
+   [
+    "Petley",
+    "D.",
+    ""
+   ],
+   [
+    "Rupper",
+    "S.",
+    ""
+   ],
+   [
+    "Azam",
+    "M. F.",
+    ""
+   ],
+   [
+    "Cook",
+    "S. J.",
+    ""
+   ],
+   [
+    "Dimri",
+    "A. P.",
+    ""
+   ],
+   [
+    "Eriksson",
+    "M.",
+    ""
+   ],
+   [
+    "Farinotti",
+    "D.",
+    ""
+   ],
+   [
+    "Fiddes",
+    "J.",
+    ""
+   ],
+   [
+    "Gnyawali",
+    "K. R.",
+    ""
+   ],
+   [
+    "Harrison",
+    "S.",
+    ""
+   ],
+   [
+    "Jha",
+    "M.",
+    ""
+   ],
+   [
+    "Koppes",
+    "M.",
+    ""
+   ],
+   [
+    "Kumar",
+    "A.",
+    ""
+   ],
+   [
+    "Leinss",
+    "S.",
+    ""
+   ],
+   [
+    "Majeed",
+    "U.",
+    ""
+   ],
+   [
+    "Mal",
+    "S.",
+    ""
+   ],
+   [
+    "Muhuri",
+    "A.",
+    ""
+   ],
+   [
+    "Noetzli",
+    "J.",
+    ""
+   ],
+   [
+    "Paul",
+    "F.",
+    ""
+   ],
+   [
+    "Rashid",
+    "I.",
+    ""
+   ],
+   [
+    "Sain",
+    "K.",
+    ""
+   ],
+   [
+    "Steiner",
+    "J.",
+    ""
+   ],
+   [
+    "Ugalde",
+    "F.",
+    ""
+   ],
+   [
+    "Watson",
+    "C. S.",
+    ""
+   ],
+   [
+    "Westoby",
+    "M. J.",
+    ""
+   ]
+  ],
+  "issue": "6552",
+  "volume": "373",
+  "page": "300-306",
+  "container": "Science"
+ },
+ "10.48550/arXiv.2107.12283": {
+  "status": 404
+ },
+ "10.1371/journal.pone.0107042": {
+  "status": 200,
+  "authors": [
+   [
+    "Stevens",
+    "Forrest R.",
+    ""
+   ],
+   [
+    "Gaughan",
+    "Andrea E.",
+    ""
+   ],
+   [
+    "Linard",
+    "Catherine",
+    ""
+   ],
+   [
+    "Tatem",
+    "Andrew J.",
+    ""
+   ]
+  ],
+  "issue": "2",
+  "volume": "10",
+  "page": "e0107042",
+  "container": "PLOS ONE"
+ },
+ "10.1186/1471-2105-8-25": {
+  "status": 200,
+  "authors": [
+   [
+    "Strobl",
+    "Carolin",
+    ""
+   ],
+   [
+    "Boulesteix",
+    "Anne-Laure",
+    ""
+   ],
+   [
+    "Zeileis",
+    "Achim",
+    ""
+   ],
+   [
+    "Hothorn",
+    "Torsten",
+    ""
+   ]
+  ],
+  "issue": "1",
+  "volume": "8",
+  "page": "",
+  "container": "BMC Bioinformatics"
+ },
+ "10.1007/s11069-012-0152-2": {
+  "status": 200,
+  "authors": [
+   [
+    "Tate",
+    "Eric",
+    ""
+   ]
+  ],
+  "issue": "2",
+  "volume": "63",
+  "page": "325-347",
+  "container": "Natural Hazards"
+ },
+ "10.1038/s41467-023-36033-x": {
+  "status": 200,
+  "authors": [
+   [
+    "Taylor",
+    "Caroline",
+    ""
+   ],
+   [
+    "Robinson",
+    "Tom R.",
+    ""
+   ],
+   [
+    "Dunning",
+    "Stuart",
+    ""
+   ],
+   [
+    "Rachel Carr",
+    "J.",
+    ""
+   ],
+   [
+    "Westoby",
+    "Matthew",
+    ""
+   ]
+  ],
+  "issue": "1",
+  "volume": "14",
+  "page": "",
+  "container": "Nature Communications"
+ },
+ "10.1038/s41586-021-03695-w": {
+  "status": 200,
+  "authors": [
+   [
+    "Tellman",
+    "B.",
+    ""
+   ],
+   [
+    "Sullivan",
+    "J. A.",
+    ""
+   ],
+   [
+    "Kuhn",
+    "C.",
+    ""
+   ],
+   [
+    "Kettner",
+    "A. J.",
+    ""
+   ],
+   [
+    "Doyle",
+    "C. S.",
+    ""
+   ],
+   [
+    "Brakenridge",
+    "G. R.",
+    ""
+   ],
+   [
+    "Erickson",
+    "T. A.",
+    ""
+   ],
+   [
+    "Slayback",
+    "D. A.",
+    ""
+   ]
+  ],
+  "issue": "7870",
+  "volume": "596",
+  "page": "80-86",
+  "container": "Nature"
+ },
+ "10.63253/1y26ihdq": {
+  "status": 200,
+  "authors": [
+   [
+    "",
+    "",
+    "UNOSAT"
+   ]
+  ],
+  "issue": "",
+  "volume": "",
+  "page": "",
+  "container": "Dataset"
+ },
+ "10.1126/science.aad8728": {
+  "status": 200,
+  "authors": [
+   [
+    "Voigt",
+    "Stefan",
+    ""
+   ],
+   [
+    "Giulio-Tonolo",
+    "Fabio",
+    ""
+   ],
+   [
+    "Lyons",
+    "Josh",
+    ""
+   ],
+   [
+    "Kučera",
+    "Jan",
+    ""
+   ],
+   [
+    "Jones",
+    "Brenda",
+    ""
+   ],
+   [
+    "Schneiderhan",
+    "Tobias",
+    ""
+   ],
+   [
+    "Platzeck",
+    "Gabriel",
+    ""
+   ],
+   [
+    "Kaku",
+    "Kazuya",
+    ""
+   ],
+   [
+    "Hazarika",
+    "Manzul Kumar",
+    ""
+   ],
+   [
+    "Czaran",
+    "Lorant",
+    ""
+   ],
+   [
+    "Li",
+    "Suju",
+    ""
+   ],
+   [
+    "Pedersen",
+    "Wendi",
+    ""
+   ],
+   [
+    "James",
+    "Godstime Kadiri",
+    ""
+   ],
+   [
+    "Proy",
+    "Catherine",
+    ""
+   ],
+   [
+    "Muthike",
+    "Denis Macharia",
+    ""
+   ],
+   [
+    "Bequignon",
+    "Jerome",
+    ""
+   ],
+   [
+    "Guha-Sapir",
+    "Debarati",
+    ""
+   ]
+  ],
+  "issue": "6296",
+  "volume": "353",
+  "page": "247-252",
+  "container": "Science"
+ },
+ "10.5194/egusphere-2026-4065": {
+  "status": 200,
+  "authors": [
+   [
+    "Xu",
+    "Qiangqiang",
+    ""
+   ],
+   [
+    "Kang",
+    "Shichang",
+    ""
+   ],
+   [
+    "Du",
+    "Wentao",
+    ""
+   ],
+   [
+    "Wu",
+    "Wei",
+    ""
+   ],
+   [
+    "Hu",
+    "Zhaofu",
+    ""
+   ],
+   [
+    "He",
+    "Xiaobo",
+    ""
+   ],
+   [
+    "Cao",
+    "Bo",
+    ""
+   ],
+   [
+    "Xie",
+    "Biwen",
+    ""
+   ]
+  ],
+  "issue": "",
+  "volume": "",
+  "page": "",
+  "container": ""
+ },
+ "10.1038/s44304-026-00271-y": {
+  "status": 200,
+  "authors": [
+   [
+    "Xu",
+    "Chong",
+    ""
+   ]
+  ],
+  "issue": "1",
+  "volume": "3",
+  "page": "",
+  "container": "npj Natural Hazards"
+ },
+ "10.5281/zenodo.7254221": {
+  "status": 404
+ },
+ "10.1016/j.accre.2026.06.022": {
+  "status": 200,
+  "authors": [
+   [
+    "Zhang",
+    "Tai-Gang",
+    ""
+   ],
+   [
+    "Wang",
+    "Wei-Cai",
+    ""
+   ],
+   [
+    "Khadka",
+    "Nitesh",
+    ""
+   ],
+   [
+    "Kougkoulos",
+    "Ioannis",
+    ""
+   ],
+   [
+    "Cook",
+    "Simon J.",
+    ""
+   ],
+   [
+    "Watson",
+    "C. Scott",
+    ""
+   ],
+   [
+    "Gao",
+    "Yang",
+    ""
+   ],
+   [
+    "Li",
+    "Sheng-Hai",
+    ""
+   ],
+   [
+    "Yang",
+    "Xiao",
+    ""
+   ],
+   [
+    "Wang",
+    "Zhong-Yan",
+    ""
+   ],
+   [
+    "An",
+    "Bao-Sheng",
+    ""
+   ],
+   [
+    "Yao",
+    "Tan-Dong",
+    ""
+   ]
+  ],
+  "issue": "1",
+  "volume": "18",
+  "page": "267-282",
+  "container": "Advances in Climate Change Research"
+ },
+ "10.1038/s41558-021-01028-3": {
+  "status": 200,
+  "authors": [
+   [
+    "Zheng",
+    "Guoxiong",
+    ""
+   ],
+   [
+    "Allen",
+    "Simon Keith",
+    ""
+   ],
+   [
+    "Bao",
+    "Anming",
+    ""
+   ],
+   [
+    "Ballesteros-Cánovas",
+    "Juan Antonio",
+    ""
+   ],
+   [
+    "Huss",
+    "Matthias",
+    ""
+   ],
+   [
+    "Zhang",
+    "Guoqing",
+    ""
+   ],
+   [
+    "Li",
+    "Junli",
+    ""
+   ],
+   [
+    "Yuan",
+    "Ye",
+    ""
+   ],
+   [
+    "Jiang",
+    "Liangliang",
+    ""
+   ],
+   [
+    "Yu",
+    "Tao",
+    ""
+   ],
+   [
+    "Chen",
+    "Wenfeng",
+    ""
+   ],
+   [
+    "Stoffel",
+    "Markus",
+    ""
+   ]
+  ],
+  "issue": "5",
+  "volume": "11",
+  "page": "411-417",
+  "container": "Nature Climate Change"
+ }
+}

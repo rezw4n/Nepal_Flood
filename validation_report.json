@@ -1,0 +1,325 @@
+{
+ "passed": true,
+ "checks": {
+  "manuscript: no unresolved placeholders": {
+   "ok": true,
+   "detail": []
+  },
+  "manuscript: no unresolved citations": {
+   "ok": true,
+   "detail": ""
+  },
+  "manuscript: no missing-value tokens": {
+   "ok": true,
+   "detail": []
+  },
+  "manuscript: all images exist": {
+   "ok": true,
+   "detail": []
+  },
+  "supplement: no unresolved placeholders": {
+   "ok": true,
+   "detail": []
+  },
+  "supplement: no unresolved citations": {
+   "ok": true,
+   "detail": ""
+  },
+  "supplement: no missing-value tokens": {
+   "ok": true,
+   "detail": []
+  },
+  "supplement: all images exist": {
+   "ok": true,
+   "detail": []
+  },
+  "Supplementary Table: first citations sequential": {
+   "ok": true,
+   "detail": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ]
+  },
+  "Supplementary Table: every cited item exists": {
+   "ok": true,
+   "detail": {
+    "cited": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ],
+    "present": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   }
+  },
+  "Supplementary Fig.: first citations sequential": {
+   "ok": true,
+   "detail": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ]
+  },
+  "Supplementary Fig.: every cited item exists": {
+   "ok": true,
+   "detail": {
+    "cited": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "present": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   }
+  },
+  "Supplementary Note: first citations sequential": {
+   "ok": true,
+   "detail": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ]
+  },
+  "Supplementary Note: every cited item exists": {
+   "ok": true,
+   "detail": {
+    "cited": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "present": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   }
+  },
+  "Main figures first cited in order": {
+   "ok": true,
+   "detail": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ]
+  },
+  "figure_1_: png, pdf and svg present": {
+   "ok": true,
+   "detail": [
+    "figure_1_overview.png"
+   ]
+  },
+  "figure_2_: png, pdf and svg present": {
+   "ok": true,
+   "detail": [
+    "figure_2_inventories.png"
+   ]
+  },
+  "figure_3_: png, pdf and svg present": {
+   "ok": true,
+   "detail": [
+    "figure_3_height_controls.png"
+   ]
+  },
+  "figure_4_: png, pdf and svg present": {
+   "ok": true,
+   "detail": [
+    "figure_4_height_envelope.png"
+   ]
+  },
+  "figure_5_: png, pdf and svg present": {
+   "ok": true,
+   "detail": [
+    "figure_5_exposure_warning.png"
+   ]
+  },
+  "figure_6_: png, pdf and svg present": {
+   "ok": true,
+   "detail": [
+    "figure_6_priorities.png"
+   ]
+  },
+  "figure_s1_: png, pdf and svg present": {
+   "ok": true,
+   "detail": [
+    "figure_s1_workflow.png"
+   ]
+  },
+  "figure_s2_: png, pdf and svg present": {
+   "ok": true,
+   "detail": [
+    "figure_s2_sentinel2.png"
+   ]
+  },
+  "figure_s3_: png, pdf and svg present": {
+   "ok": true,
+   "detail": [
+    "figure_s3_model_diagnostics.png"
+   ]
+  },
+  "figure_s4_: png, pdf and svg present": {
+   "ok": true,
+   "detail": [
+    "figure_s4_reach_physics.png"
+   ]
+  },
+  "figure_s5_: png, pdf and svg present": {
+   "ok": true,
+   "detail": [
+    "figure_s5_debris_rank.png"
+   ]
+  },
+  "figure_s6_: png, pdf and svg present": {
+   "ok": true,
+   "detail": [
+    "figure_s6_hot_checks.png"
+   ]
+  },
+  "Abstract <= 150 words": {
+   "ok": true,
+   "detail": 146
+  },
+  "Main text <= 5,000 words": {
+   "ok": true,
+   "detail": 3396
+  },
+  "Display items <= 10": {
+   "ok": true,
+   "detail": 8
+  },
+  "References <= 90 (project soft limit; check the target journal)": {
+   "ok": true,
+   "detail": 81
+  },
+  "Harmonized totals match inventory": {
+   "ok": true,
+   "detail": [
+    5781,
+    4530
+   ]
+  },
+  "Sentinel-2 scene counts match log": {
+   "ok": true,
+   "detail": [
+    14,
+    19
+   ]
+  },
+  "Sentinel-2 NDVI AUC matches table": {
+   "ok": true,
+   "detail": 0.948
+  },
+  "Danger-zone counts match results": {
+   "ok": true,
+   "detail": 4868
+  },
+  "Nepal_Flood_Damage_Assessment.md exists and is newer than its source": {
+   "ok": true,
+   "detail": ""
+  },
+  "Nepal_Flood_Damage_Assessment.docx exists and is newer than its source": {
+   "ok": true,
+   "detail": ""
+  },
+  "Nepal_Flood_Damage_Assessment.pdf exists and is newer than its source": {
+   "ok": true,
+   "detail": ""
+  },
+  "Nepal_Flood_Damage_Assessment.html exists and is newer than its source": {
+   "ok": true,
+   "detail": ""
+  },
+  "Supplementary_Information.md exists and is newer than its source": {
+   "ok": true,
+   "detail": ""
+  },
+  "Supplementary_Information.docx exists and is newer than its source": {
+   "ok": true,
+   "detail": ""
+  },
+  "Supplementary_Information.pdf exists and is newer than its source": {
+   "ok": true,
+   "detail": ""
+  },
+  "Supplementary_Information.html exists and is newer than its source": {
+   "ok": true,
+   "detail": ""
+  },
+  "Nepal Flood Document.docx exists and is newer than its template": {
+   "ok": true,
+   "detail": ""
+  }
+ },
+ "pdf_pages": {
+  "Nepal_Flood_Damage_Assessment": 20,
+  "Supplementary_Information": 15
+ },
+ "abstract_words": 146,
+ "main_text_words": 3396,
+ "references": 81,
+ "display_items": 8
+}

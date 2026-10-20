@@ -1,0 +1,12 @@
+{
+ "otsu_threshold_dndvi": -0.2856855094432831,
+ "precision": 0.8250084013075489,
+ "recall": 0.5621357202331391,
+ "iou": 0.5022504091653028,
+ "change_area_km2": 13.0932,
+ "unosat_area_in_domain_km2": 19.216,
+ "median_dndvi_in_extent": -0.3630898594856262,
+ "median_dndvi_outside": 0.008716270327568054,
+ "n_pre_scenes": 14,
+ "n_post_scenes": 19
+}

@@ -1,0 +1,6 @@
+direction,dx_m,dy_m,aoi_members,unosat_members,severe_inside,changed_municipality
+original,0,0,1050,736,696,0
+east,5,0,1050,740,700,0
+west,-5,0,1048,735,692,0
+north,0,5,1046,733,694,1
+south,0,-5,1049,738,697,0

@@ -1,0 +1,8 @@
+estimate,scope,usd_million,low_usd_million,high_usd_million,reference_date,source,url
+UNDP RAPIDA (CLIMADA) direct building damage,Buildings (modelled),169.48,118.64,220.32,2026-08-31,UNDP economic FeatureServer (this study's aggregation),https://geosmarthosting.undp.org/arcgis/rest/services/Hosted/NPL_Flooding_Economic_Estimate__20260826/FeatureServer/0
+RDNA private buildings and household assets,Private housing (damage),421.74,,,2026-09-10,NDRRMA/NPC RDNA Table 9,https://ndrrma.gov.np/mediafiles/rasuwa/Rapid_Damage_and_Needs_Assessment_RDNA_Rasuwa-Bhotekoshi_Flood_2026.pdf
+RDNA energy sector damage,Energy (damage),889.21,,,2026-09-10,NDRRMA/NPC RDNA,https://ndrrma.gov.np/mediafiles/rasuwa/Rapid_Damage_and_Needs_Assessment_RDNA_Rasuwa-Bhotekoshi_Flood_2026.pdf
+World Bank GRADE direct physical damage,All physical assets (damage),1661.0,,,2026-09-01,World Bank/GFDRR GRADE (via Nepal Development Update),http://documents.worldbank.org/curated/en/099217209292624461
+RDNA physical damage,All sectors (damage),1812.01,,,2026-09-10,NDRRMA/NPC RDNA,https://ndrrma.gov.np/mediafiles/rasuwa/Rapid_Damage_and_Needs_Assessment_RDNA_Rasuwa-Bhotekoshi_Flood_2026.pdf
+RDNA total effects (damage + losses),All sectors (effects),2695.33,,,2026-09-10,NDRRMA/NPC RDNA,https://ndrrma.gov.np/mediafiles/rasuwa/Rapid_Damage_and_Needs_Assessment_RDNA_Rasuwa-Bhotekoshi_Flood_2026.pdf
+RDNA recovery and reconstruction needs,All sectors (needs),4774.99,,,2026-09-10,NDRRMA/NPC RDNA,https://ndrrma.gov.np/mediafiles/rasuwa/Rapid_Damage_and_Needs_Assessment_RDNA_Rasuwa-Bhotekoshi_Flood_2026.pdf

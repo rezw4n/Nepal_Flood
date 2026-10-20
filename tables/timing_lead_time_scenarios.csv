@@ -1,0 +1,4 @@
+scenario,alert_time,destroyed_n,pct_destroyed_negative,pct_destroyed_ge10,pct_destroyed_ge30,pct_destroyed_ge60,median_lead_destroyed_min
+Seismic-triggered automatic alert (onset + 2 min),08:39:10,4530,0.02208,84.5,73.47,26.51,40.79
+First official phone warnings (08:46-08:54),08:50:00,4530,16.4,75.39,49.98,21.59,29.96
+Mass SMS by DHM (09:15),09:15:00,4530,28.81,41.02,23.82,4.945,4.96

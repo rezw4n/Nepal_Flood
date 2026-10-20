@@ -1,0 +1,13 @@
+index,target,n,auc
+ndvi,destroyed vs not (all assessed),23189,0.9482
+ndvi,destroyed vs no record (CEMS AOIs),21898,0.9522
+ndvi,HOT destroyed vs HOT no damage,763,0.9361
+bsi,destroyed vs not (all assessed),23189,0.9021
+bsi,destroyed vs no record (CEMS AOIs),21898,0.9114
+bsi,HOT destroyed vs HOT no damage,763,0.8721
+bright,destroyed vs not (all assessed),23189,0.9412
+bright,destroyed vs no record (CEMS AOIs),21898,0.9442
+bright,HOT destroyed vs HOT no damage,763,0.9384
+ndwi,destroyed vs not (all assessed),23189,0.9496
+ndwi,destroyed vs no record (CEMS AOIs),21898,0.9531
+ndwi,HOT destroyed vs HOT no damage,763,0.9390

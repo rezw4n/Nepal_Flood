@@ -1,0 +1,646 @@
+[
+ {
+  "url": "https://esa-worldcover.s3.eu-central-1.amazonaws.com/v200/2021/map/ESA_WorldCover_10m_2021_v200_N27E084_Map.tif",
+  "file": "sources_ext\\worldcover\\worldcover2021_corridor.tif",
+  "status": 200,
+  "window_lonlat": [
+   84.4,
+   27.66,
+   85.6,
+   28.36
+  ],
+  "bytes": 7018753,
+  "sha256": "d39936df891a0c24aaf2ae8cd9ef470b7149f0604f254d518e9a1e2cea253de9",
+  "retrieved_utc": "2026-10-19T19:30:20+00:00"
+ },
+ {
+  "url": "https://data.worldpop.org/GIS/Population/Global_2015_2030/R2025A/2015/NPL/v1/100m/constrained/npl_pop_2015_CN_100m_R2025A_v1.tif",
+  "file": "sources_ext\\worldpop\\npl_pop_2015_CN_100m_R2025A_v1.tif",
+  "status": 200,
+  "bytes": 30478489,
+  "sha256": "a04e4e38258fac134ac7f304c246a2eec8360003ee6a5f59d591fcb805b3ce78",
+  "retrieved_utc": "2026-10-19T19:31:01+00:00"
+ },
+ {
+  "url": "https://data.worldpop.org/GIS/Population/Global_2015_2030/R2025A/2015/NPL/v1/100m/constrained/npl_pop_2015_CN_100m_R2025A_v1.tif",
+  "file": "sources_ext\\worldpop\\worldpop_2015_corridor.tif",
+  "status": 200,
+  "derived_from": "npl_pop_2015_CN_100m_R2025A_v1.tif",
+  "window_lonlat": [
+   84.4,
+   27.66,
+   85.6,
+   28.36
+  ],
+  "bytes": 1782655,
+  "sha256": "e29b5a642ecbffd3c5eddae15a3ba4fa44ae7af80d82e765a0659d4cf7b7ac48",
+  "retrieved_utc": "2026-10-19T19:31:01+00:00"
+ },
+ {
+  "url": "https://data.worldpop.org/GIS/Population/Global_2015_2030/R2025A/2020/NPL/v1/100m/constrained/npl_pop_2020_CN_100m_R2025A_v1.tif",
+  "file": "sources_ext\\worldpop\\npl_pop_2020_CN_100m_R2025A_v1.tif",
+  "status": 200,
+  "bytes": 31507097,
+  "sha256": "7d5273393d1bcee7bb8e340972d32c54f8f0f341613403c9c1d5e27a21429d3c",
+  "retrieved_utc": "2026-10-19T19:31:45+00:00"
+ },
+ {
+  "url": "https://data.worldpop.org/GIS/Population/Global_2015_2030/R2025A/2020/NPL/v1/100m/constrained/npl_pop_2020_CN_100m_R2025A_v1.tif",
+  "file": "sources_ext\\worldpop\\worldpop_2020_corridor.tif",
+  "status": 200,
+  "derived_from": "npl_pop_2020_CN_100m_R2025A_v1.tif",
+  "window_lonlat": [
+   84.4,
+   27.66,
+   85.6,
+   28.36
+  ],
+  "bytes": 1863322,
+  "sha256": "7b90ce052f9d295a0200dc8079de5e0634853d4bc62de610723cd3130928b05b",
+  "retrieved_utc": "2026-10-19T19:31:45+00:00"
+ },
+ {
+  "url": "https://data.worldpop.org/GIS/Population/Global_2015_2030/R2025A/2026/NPL/v1/100m/constrained/npl_pop_2026_CN_100m_R2025A_v1.tif",
+  "file": "sources_ext\\worldpop\\npl_pop_2026_CN_100m_R2025A_v1.tif",
+  "status": 200,
+  "bytes": 32079831,
+  "sha256": "aed2caa31fa6c352c117cd246f89a44b4c51616c434edb0621404b3cccff59ef",
+  "retrieved_utc": "2026-10-19T19:32:30+00:00"
+ },
+ {
+  "url": "https://data.worldpop.org/GIS/Population/Global_2015_2030/R2025A/2026/NPL/v1/100m/constrained/npl_pop_2026_CN_100m_R2025A_v1.tif",
+  "file": "sources_ext\\worldpop\\worldpop_2026_corridor.tif",
+  "status": 200,
+  "derived_from": "npl_pop_2026_CN_100m_R2025A_v1.tif",
+  "window_lonlat": [
+   84.4,
+   27.66,
+   85.6,
+   28.36
+  ],
+  "bytes": 1902412,
+  "sha256": "39d9870fe58f56945e46408c76b94c4b9108b31646f78788cba406c05e6cc5ed",
+  "retrieved_utc": "2026-10-19T19:32:31+00:00"
+ },
+ {
+  "url": "https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/GHSL/GHS_BUILT_S_GLOBE_R2023A/GHS_BUILT_S_E1975_GLOBE_R2023A_54009_100/V1-0/tiles/GHS_BUILT_S_E1975_GLOBE_R2023A_54009_100_V1_0_R6_C26.zip",
+  "file": "sources_ext\\ghsl\\ghs_built_s_1975_corridor.tif",
+  "status": 200,
+  "zip_bytes": 10595251,
+  "zip_sha256": "7864a4c2dbc76874660c8fe33abfe73c637e20d01cef43428743e68f978f60ec",
+  "window_moll": [
+   7814118.370667813,
+   3367754.3175156177,
+   7959291.576491163,
+   3452293.0449789064
+  ],
+  "bytes": 178196,
+  "sha256": "26eae334feff7435b766d5a2667a8c3181c21f3de1725bf255e1f565de1ce9ef",
+  "retrieved_utc": "2026-10-19T19:32:34+00:00"
+ },
+ {
+  "url": "https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/GHSL/GHS_BUILT_S_GLOBE_R2023A/GHS_BUILT_S_E1980_GLOBE_R2023A_54009_100/V1-0/tiles/GHS_BUILT_S_E1980_GLOBE_R2023A_54009_100_V1_0_R6_C26.zip",
+  "file": "sources_ext\\ghsl\\ghs_built_s_1980_corridor.tif",
+  "status": 200,
+  "zip_bytes": 12186940,
+  "zip_sha256": "acdb950293236d540d9c8b4a547d0e566245fcd703f071e4ca4d38c6a85b5775",
+  "window_moll": [
+   7814118.370667813,
+   3367754.3175156177,
+   7959291.576491163,
+   3452293.0449789064
+  ],
+  "bytes": 191869,
+  "sha256": "430273d959254a0e9860cb896a4fd9272ad2b05cd1bbb5dbb9d98de3b618d9ea",
+  "retrieved_utc": "2026-10-19T19:32:36+00:00"
+ },
+ {
+  "url": "https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/GHSL/GHS_BUILT_S_GLOBE_R2023A/GHS_BUILT_S_E1985_GLOBE_R2023A_54009_100/V1-0/tiles/GHS_BUILT_S_E1985_GLOBE_R2023A_54009_100_V1_0_R6_C26.zip",
+  "file": "sources_ext\\ghsl\\ghs_built_s_1985_corridor.tif",
+  "status": 200,
+  "zip_bytes": 13712332,
+  "zip_sha256": "e1606a3fd8694cd24121ebddda8a2bbe3d3216295e7830fb2e95fab5d1a70f93",
+  "window_moll": [
+   7814118.370667813,
+   3367754.3175156177,
+   7959291.576491163,
+   3452293.0449789064
+  ],
+  "bytes": 203649,
+  "sha256": "47e3b3e0cdd9f479953d63adcd866e1fa1491fc9412ca2aed409c9cee3070500",
+  "retrieved_utc": "2026-10-19T19:32:39+00:00"
+ },
+ {
+  "url": "https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/GHSL/GHS_BUILT_S_GLOBE_R2023A/GHS_BUILT_S_E1990_GLOBE_R2023A_54009_100/V1-0/tiles/GHS_BUILT_S_E1990_GLOBE_R2023A_54009_100_V1_0_R6_C26.zip",
+  "file": "sources_ext\\ghsl\\ghs_built_s_1990_corridor.tif",
+  "status": 200,
+  "zip_bytes": 15187039,
+  "zip_sha256": "19e4f8cc8e21ccef9f1c88c04299691310860a081b7bf857c4810c617093057d",
+  "window_moll": [
+   7814118.370667813,
+   3367754.3175156177,
+   7959291.576491163,
+   3452293.0449789064
+  ],
+  "bytes": 214478,
+  "sha256": "5192135ad31626fd4ca1588dacb08a69ea8b76701389d98950cb621eb6ed28d0",
+  "retrieved_utc": "2026-10-19T19:32:43+00:00"
+ },
+ {
+  "url": "https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/GHSL/GHS_BUILT_S_GLOBE_R2023A/GHS_BUILT_S_E1995_GLOBE_R2023A_54009_100/V1-0/tiles/GHS_BUILT_S_E1995_GLOBE_R2023A_54009_100_V1_0_R6_C26.zip",
+  "file": "sources_ext\\ghsl\\ghs_built_s_1995_corridor.tif",
+  "status": 200,
+  "zip_bytes": 16134435,
+  "zip_sha256": "42faee463cdf27d2e1fd1ea9f4b69e6aa50439adae7aa54f30928d2498064bfa",
+  "window_moll": [
+   7814118.370667813,
+   3367754.3175156177,
+   7959291.576491163,
+   3452293.0449789064
+  ],
+  "bytes": 244031,
+  "sha256": "4c06827deda2e927cbf71acdecd69c907633e2556875b190c94e092d6a48d877",
+  "retrieved_utc": "2026-10-19T19:32:46+00:00"
+ },
+ {
+  "url": "https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/GHSL/GHS_BUILT_S_GLOBE_R2023A/GHS_BUILT_S_E2000_GLOBE_R2023A_54009_100/V1-0/tiles/GHS_BUILT_S_E2000_GLOBE_R2023A_54009_100_V1_0_R6_C26.zip",
+  "file": "sources_ext\\ghsl\\ghs_built_s_2000_corridor.tif",
+  "status": 200,
+  "zip_bytes": 17001750,
+  "zip_sha256": "a8abb6fdcd1cb8bc161c5e1d0f40f0205e8155ef25ba2f204353051484d1dbdc",
+  "window_moll": [
+   7814118.370667813,
+   3367754.3175156177,
+   7959291.576491163,
+   3452293.0449789064
+  ],
+  "bytes": 268419,
+  "sha256": "d744b8a3092fce172d318367f88d1409bbca9961f0cbdf61afac4c9f1d1e4298",
+  "retrieved_utc": "2026-10-19T19:32:49+00:00"
+ },
+ {
+  "url": "https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/GHSL/GHS_BUILT_S_GLOBE_R2023A/GHS_BUILT_S_E2005_GLOBE_R2023A_54009_100/V1-0/tiles/GHS_BUILT_S_E2005_GLOBE_R2023A_54009_100_V1_0_R6_C26.zip",
+  "file": "sources_ext\\ghsl\\ghs_built_s_2005_corridor.tif",
+  "status": 200,
+  "zip_bytes": 19228266,
+  "zip_sha256": "044907c59100c62ed40c981b808c487ba7c8e58b290aa4377d36d002249f74b9",
+  "window_moll": [
+   7814118.370667813,
+   3367754.3175156177,
+   7959291.576491163,
+   3452293.0449789064
+  ],
+  "bytes": 325591,
+  "sha256": "67b8637c4d0995e5c29d103a7f86ae8faee107d2895dec5c166623dee14daa2f",
+  "retrieved_utc": "2026-10-19T19:32:53+00:00"
+ },
+ {
+  "url": "https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/GHSL/GHS_BUILT_S_GLOBE_R2023A/GHS_BUILT_S_E2010_GLOBE_R2023A_54009_100/V1-0/tiles/GHS_BUILT_S_E2010_GLOBE_R2023A_54009_100_V1_0_R6_C26.zip",
+  "file": "sources_ext\\ghsl\\ghs_built_s_2010_corridor.tif",
+  "status": 200,
+  "zip_bytes": 21567372,
+  "zip_sha256": "6f44e9cab36840cd45ec5ee9610409167e0bd7615bcc3c2d986f3ba349fc2e71",
+  "window_moll": [
+   7814118.370667813,
+   3367754.3175156177,
+   7959291.576491163,
+   3452293.0449789064
+  ],
+  "bytes": 379608,
+  "sha256": "ee46fc17689da45eda5a46b2a27b77dc0dd4575ec308b6a744185e67dac7d135",
+  "retrieved_utc": "2026-10-19T19:32:57+00:00"
+ },
+ {
+  "url": "https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/GHSL/GHS_BUILT_S_GLOBE_R2023A/GHS_BUILT_S_E2015_GLOBE_R2023A_54009_100/V1-0/tiles/GHS_BUILT_S_E2015_GLOBE_R2023A_54009_100_V1_0_R6_C26.zip",
+  "file": "sources_ext\\ghsl\\ghs_built_s_2015_corridor.tif",
+  "status": 200,
+  "zip_bytes": 25777318,
+  "zip_sha256": "60ef58942e670f3bfce489a903b4b99d2bb2298956db4fcfc1307c9edeeb9137",
+  "window_moll": [
+   7814118.370667813,
+   3367754.3175156177,
+   7959291.576491163,
+   3452293.0449789064
+  ],
+  "bytes": 457956,
+  "sha256": "38ae8fd3174e8b8a3032044a1e42c3ac0126d0ed408de7fc0f7d1dbcf3a7b8cc",
+  "retrieved_utc": "2026-10-19T19:33:01+00:00"
+ },
+ {
+  "url": "https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/GHSL/GHS_BUILT_S_GLOBE_R2023A/GHS_BUILT_S_E2020_GLOBE_R2023A_54009_100/V1-0/tiles/GHS_BUILT_S_E2020_GLOBE_R2023A_54009_100_V1_0_R6_C26.zip",
+  "file": "sources_ext\\ghsl\\ghs_built_s_2020_corridor.tif",
+  "status": 200,
+  "zip_bytes": 29033064,
+  "zip_sha256": "aeb4662cb47c296a870aedcb4f49c0e8572fccd3973e9521f06f12b939dbb46c",
+  "window_moll": [
+   7814118.370667813,
+   3367754.3175156177,
+   7959291.576491163,
+   3452293.0449789064
+  ],
+  "bytes": 513611,
+  "sha256": "cfab530a1242e438e12375025742c9c5a92cbca48046142caf98e245ca33ac2f",
+  "retrieved_utc": "2026-10-19T19:33:05+00:00"
+ },
+ {
+  "url": "s3://overturemaps-us-west-2/release/2026-09-23.1/buildings bbox=(84.4, 27.66, 85.6, 28.36)",
+  "file": "sources_ext\\overture\\buildings.parquet",
+  "status": 200,
+  "records": 1498958,
+  "bytes": 156950150,
+  "sha256": "2fc1912c70b8b4f8ce730a0eec69d2be05003a24b3560932a7968ddb30deee03",
+  "release": "2026-09-23.1",
+  "retrieved_utc": "2026-10-19T19:34:27+00:00"
+ },
+ {
+  "url": "s3://overturemaps-us-west-2/release/2026-09-23.1/segments bbox=(84.4, 27.66, 85.6, 28.36)",
+  "file": "sources_ext\\overture\\segments.parquet",
+  "status": 200,
+  "records": 105661,
+  "bytes": 29740466,
+  "sha256": "7ae90e4f2cf5131c4f56f04f4e7acc20ed7c8776c20e78ed1775fcbdb5f147df",
+  "release": "2026-09-23.1",
+  "retrieved_utc": "2026-10-19T19:35:03+00:00"
+ },
+ {
+  "url": "s3://overturemaps-us-west-2/release/2026-09-23.1/infrastructure bbox=(84.4, 27.66, 85.6, 28.36)",
+  "file": "sources_ext\\overture\\infrastructure.parquet",
+  "status": 200,
+  "records": 10312,
+  "bytes": 920632,
+  "sha256": "70f345b8fed25730db927708576a1b8374dee153f99cec7e81007fcc2b747932",
+  "release": "2026-09-23.1",
+  "retrieved_utc": "2026-10-19T19:35:19+00:00"
+ },
+ {
+  "url": "s3://overturemaps-us-west-2/release/2026-09-23.1/water bbox=(84.4, 27.66, 85.6, 28.36)",
+  "file": "sources_ext\\overture\\water.parquet",
+  "status": 200,
+  "records": 5087,
+  "bytes": 3545045,
+  "sha256": "4509d8ddc33f30e98bd3fe684a6adfc7881425a164a945019dde8267d61ae722",
+  "release": "2026-09-23.1",
+  "retrieved_utc": "2026-10-19T19:35:42+00:00"
+ },
+ {
+  "url": "https://mapping.emergency.copernicus.eu/activations/api/activations/EMSR927/",
+  "file": "sources_ext\\cems\\EMSR927_activation.json",
+  "status": 200,
+  "bytes": 671,
+  "sha256": "fd53ef003c372c46d03ac8fd5daf28ce25fa6ca795ddf36662ed54f7c309f75e",
+  "retrieved_utc": "2026-10-19T19:47:12+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI01/GRA_PRODUCT/EMSR927_AOI01_GRA_PRODUCT_builtUpP_v1.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI01_GRA_PRODUCT_builtUpP_v1.json",
+  "status": 200,
+  "bytes": 173108,
+  "sha256": "4bb2766ac1c449d2d052f5a65bfc146b14f56da7d70d48d6577bd1c7b57420f2",
+  "retrieved_utc": "2026-10-19T19:47:13+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI01/GRA_PRODUCT/EMSR927_AOI01_GRA_PRODUCT_facilitiesA_v1.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI01_GRA_PRODUCT_facilitiesA_v1.json",
+  "status": 200,
+  "bytes": 1301,
+  "sha256": "a553d72d9568ffaf5028a95496777fc16974ff21f5310adab7f14a3b06827811",
+  "retrieved_utc": "2026-10-19T19:47:14+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI01/GRA_PRODUCT/EMSR927_AOI01_GRA_PRODUCT_observedEventA_v1.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI01_GRA_PRODUCT_observedEventA_v1.json",
+  "status": 200,
+  "bytes": 278931,
+  "sha256": "e4d0e530499de348c9b0b10c197a130c872c6ed7ed50d7bb367d5d080a031eb0",
+  "retrieved_utc": "2026-10-19T19:47:16+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI01/GRA_PRODUCT/EMSR927_AOI01_GRA_PRODUCT_transportationA_v1.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI01_GRA_PRODUCT_transportationA_v1.json",
+  "status": 200,
+  "bytes": 3111,
+  "sha256": "070e8093160f90b57a9aeef9c5c1f4a502a740c48f115b70772e19bee2ec4b38",
+  "retrieved_utc": "2026-10-19T19:47:17+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI01/GRA_PRODUCT/EMSR927_AOI01_GRA_PRODUCT_transportationL_v1.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI01_GRA_PRODUCT_transportationL_v1.json",
+  "status": 200,
+  "bytes": 30136,
+  "sha256": "88bdc83dbbe1ffe76327b3a23082f8b083432a7af425785fa8d7d3eac369b900",
+  "retrieved_utc": "2026-10-19T19:47:18+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI01/GRA_PRODUCT/EMSR927_AOI01_GRA_PRODUCT_transportationP_v1.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI01_GRA_PRODUCT_transportationP_v1.json",
+  "status": 200,
+  "bytes": 2469,
+  "sha256": "37a68753b91e19a6251b27ae0ebb25ea38ab292df29c494a5719512195d202f2",
+  "retrieved_utc": "2026-10-19T19:47:19+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI02/GRA_PRODUCT/EMSR927_AOI02_GRA_PRODUCT_builtUpP_v2.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI02_GRA_PRODUCT_builtUpP_v2.json",
+  "status": 200,
+  "bytes": 171690,
+  "sha256": "a7be028048629925473a2ad05cfa545ab14d1feb98765733af6c2149fdd54953",
+  "retrieved_utc": "2026-10-19T19:47:21+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI02/GRA_PRODUCT/EMSR927_AOI02_GRA_PRODUCT_facilitiesA_v2.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI02_GRA_PRODUCT_facilitiesA_v2.json",
+  "status": 200,
+  "bytes": 979,
+  "sha256": "f2b8b11adaa0f8c4977f4036076417191f7484cf6c4714a0446ecd1f07fe5577",
+  "retrieved_utc": "2026-10-19T19:47:21+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI02/GRA_PRODUCT/EMSR927_AOI02_GRA_PRODUCT_observedEventA_v2.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI02_GRA_PRODUCT_observedEventA_v2.json",
+  "status": 200,
+  "bytes": 89011,
+  "sha256": "1692b83f36627f96bde484fea29008c1da74db0bdb0e29f3e445e691a95b72cb",
+  "retrieved_utc": "2026-10-19T19:47:23+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI02/GRA_PRODUCT/EMSR927_AOI02_GRA_PRODUCT_transportationL_v2.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI02_GRA_PRODUCT_transportationL_v2.json",
+  "status": 200,
+  "bytes": 16682,
+  "sha256": "5b637e8dd2d550ccb35fac52826f6f22eef1c12849c7305e6e1904ebc08fead8",
+  "retrieved_utc": "2026-10-19T19:47:24+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI02/GRA_PRODUCT/EMSR927_AOI02_GRA_PRODUCT_transportationP_v2.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI02_GRA_PRODUCT_transportationP_v2.json",
+  "status": 200,
+  "bytes": 646,
+  "sha256": "426f252b529f4efe2c7864e6e4aaee1fd131bedd190aeaf484b43859e489741c",
+  "retrieved_utc": "2026-10-19T19:47:25+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI03/GRA_PRODUCT/EMSR927_AOI03_GRA_PRODUCT_builtUpP_v1.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI03_GRA_PRODUCT_builtUpP_v1.json",
+  "status": 200,
+  "bytes": 930976,
+  "sha256": "c95843e9fd0bf1801edfc464dc46c8e5d0d67081ec552b97d366c324a1ff5dcb",
+  "retrieved_utc": "2026-10-19T19:47:27+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI03/GRA_PRODUCT/EMSR927_AOI03_GRA_PRODUCT_facilitiesA_v1.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI03_GRA_PRODUCT_facilitiesA_v1.json",
+  "status": 200,
+  "bytes": 8602,
+  "sha256": "dbd94d3b8b093ed86ae63d53f4cf560de93101c8fdc0be6d8a6d086087edb699",
+  "retrieved_utc": "2026-10-19T19:47:28+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI03/GRA_PRODUCT/EMSR927_AOI03_GRA_PRODUCT_facilitiesL_v1.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI03_GRA_PRODUCT_facilitiesL_v1.json",
+  "status": 200,
+  "bytes": 2173,
+  "sha256": "fd1791188711ef3640833d184e51ef0f842365f4f0363feeda876492604f3a6c",
+  "retrieved_utc": "2026-10-19T19:47:29+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI03/GRA_PRODUCT/EMSR927_AOI03_GRA_PRODUCT_notAnalysedA_v1.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI03_GRA_PRODUCT_notAnalysedA_v1.json",
+  "status": 200,
+  "bytes": 25561,
+  "sha256": "ecadbcf9868276a9689476f780c8496df654c773cbc0bb6974eccac9cdb27cf9",
+  "retrieved_utc": "2026-10-19T19:47:30+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI03/GRA_PRODUCT/EMSR927_AOI03_GRA_PRODUCT_observedEventA_v1.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI03_GRA_PRODUCT_observedEventA_v1.json",
+  "status": 200,
+  "bytes": 249942,
+  "sha256": "005d9c7e28659fd29674b3579534a8b879ff6bab58024df2cb58c01c53efbe76",
+  "retrieved_utc": "2026-10-19T19:47:33+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI03/GRA_PRODUCT/EMSR927_AOI03_GRA_PRODUCT_transportationA_v1.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI03_GRA_PRODUCT_transportationA_v1.json",
+  "status": 200,
+  "bytes": 1737,
+  "sha256": "1555f4715b4d53b436d509228afa9b67471a8edcc50b5d7b7217f76ba404a775",
+  "retrieved_utc": "2026-10-19T19:47:34+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI03/GRA_PRODUCT/EMSR927_AOI03_GRA_PRODUCT_transportationL_v1.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI03_GRA_PRODUCT_transportationL_v1.json",
+  "status": 200,
+  "bytes": 400095,
+  "sha256": "98a89c3d3077c150e0ea4c90fa3befd122f2cd8d2f91e2472af930ed16037d17",
+  "retrieved_utc": "2026-10-19T19:47:36+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI03/GRA_PRODUCT/EMSR927_AOI03_GRA_PRODUCT_transportationP_v1.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI03_GRA_PRODUCT_transportationP_v1.json",
+  "status": 200,
+  "bytes": 9316,
+  "sha256": "77ea3f7196e16476ab2dcde1374663d8196655d3950f3b2b3003d6215f522df9",
+  "retrieved_utc": "2026-10-19T19:47:37+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI03/GRA_MONIT01/EMSR927_AOI03_GRA_MONIT01_builtUpP_v1.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI03_GRA_MONIT01_builtUpP_v1.json",
+  "status": 200,
+  "bytes": 1214990,
+  "sha256": "9efd2e7c1105eec35a59e307458cfbe76c2d8f0b2e0b61bb22b65cddbc391d58",
+  "retrieved_utc": "2026-10-19T19:47:39+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI03/GRA_MONIT01/EMSR927_AOI03_GRA_MONIT01_facilitiesA_v1.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI03_GRA_MONIT01_facilitiesA_v1.json",
+  "status": 200,
+  "bytes": 9444,
+  "sha256": "877207e9e4b861ea2f2245f333ebe8f08a7f85abcf0bd722f951a05d347f2693",
+  "retrieved_utc": "2026-10-19T19:47:40+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI03/GRA_MONIT01/EMSR927_AOI03_GRA_MONIT01_facilitiesL_v1.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI03_GRA_MONIT01_facilitiesL_v1.json",
+  "status": 200,
+  "bytes": 2173,
+  "sha256": "60f51d79b0de09ec61783a51cf1f1bd916a55fd3e8210f88776331e6ce47b23d",
+  "retrieved_utc": "2026-10-19T19:47:41+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI03/GRA_MONIT01/EMSR927_AOI03_GRA_MONIT01_notAnalysedA_v1.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI03_GRA_MONIT01_notAnalysedA_v1.json",
+  "status": 200,
+  "bytes": 2985,
+  "sha256": "1c1e4d90dad6474fb08df5f3bd0104e65d8808c460243a27bb579e63956a5a96",
+  "retrieved_utc": "2026-10-19T19:47:42+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI03/GRA_MONIT01/EMSR927_AOI03_GRA_MONIT01_observedEventA_v1.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI03_GRA_MONIT01_observedEventA_v1.json",
+  "status": 200,
+  "bytes": 519028,
+  "sha256": "5a6c85a077659e3b6faae9effa2d1656317e1b2b93f8ea4b7a496247d90a4a8b",
+  "retrieved_utc": "2026-10-19T19:47:44+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI03/GRA_MONIT01/EMSR927_AOI03_GRA_MONIT01_transportationA_v1.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI03_GRA_MONIT01_transportationA_v1.json",
+  "status": 200,
+  "bytes": 1737,
+  "sha256": "76d8e5bf9bc410c36bbd86dce9119c3d251a9786245cde5f0e51942d8f98daa5",
+  "retrieved_utc": "2026-10-19T19:47:45+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI03/GRA_MONIT01/EMSR927_AOI03_GRA_MONIT01_transportationL_v1.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI03_GRA_MONIT01_transportationL_v1.json",
+  "status": 200,
+  "bytes": 381966,
+  "sha256": "6016fa1b7d1018cf817fe049df0a6cfabc0a50887586e246e2ce570c0c09924d",
+  "retrieved_utc": "2026-10-19T19:47:46+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI03/GRA_MONIT01/EMSR927_AOI03_GRA_MONIT01_transportationP_v1.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI03_GRA_MONIT01_transportationP_v1.json",
+  "status": 200,
+  "bytes": 12046,
+  "sha256": "668e0c646830103d772586f7360089be2a769e296b053f51cbac6b87c83fd748",
+  "retrieved_utc": "2026-10-19T19:47:48+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI05/GRA_PRODUCT/EMSR927_AOI05_GRA_PRODUCT_builtUpP_v2.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI05_GRA_PRODUCT_builtUpP_v2.json",
+  "status": 200,
+  "bytes": 244851,
+  "sha256": "4b8d020c8c5996546684bbaf665d7b22828e40c9f36d29448df35656ea653d2d",
+  "retrieved_utc": "2026-10-19T19:47:49+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI05/GRA_PRODUCT/EMSR927_AOI05_GRA_PRODUCT_notAnalysedA_v2.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI05_GRA_PRODUCT_notAnalysedA_v2.json",
+  "status": 200,
+  "bytes": 353037,
+  "sha256": "c9068174a370653fec3d21220c01bed19d05afdd1fb34ba935fa0a0858731643",
+  "retrieved_utc": "2026-10-19T19:47:51+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI05/GRA_PRODUCT/EMSR927_AOI05_GRA_PRODUCT_observedEventA_v2.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI05_GRA_PRODUCT_observedEventA_v2.json",
+  "status": 200,
+  "bytes": 3096566,
+  "sha256": "d603256bcea65e1c9e7bed07062d508cd970521eae59d44c49c219563d9f09b5",
+  "retrieved_utc": "2026-10-19T19:47:53+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI05/GRA_PRODUCT/EMSR927_AOI05_GRA_PRODUCT_transportationL_v2.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI05_GRA_PRODUCT_transportationL_v2.json",
+  "status": 200,
+  "bytes": 395149,
+  "sha256": "8336f861edc387f34ce79fc974b16185765b4a8623196e6c29b060bd7264b658",
+  "retrieved_utc": "2026-10-19T19:47:55+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI05/GRA_MONIT01/EMSR927_AOI05_GRA_MONIT01_builtUpP_v2.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI05_GRA_MONIT01_builtUpP_v2.json",
+  "status": 200,
+  "bytes": 305811,
+  "sha256": "d74823fe7aeef2247e0d516cc270e4e84de80369d01bee87096734e05e1e9bfc",
+  "retrieved_utc": "2026-10-19T19:47:57+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI05/GRA_MONIT01/EMSR927_AOI05_GRA_MONIT01_notAnalysedA_v2.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI05_GRA_MONIT01_notAnalysedA_v2.json",
+  "status": 200,
+  "bytes": 148373,
+  "sha256": "9754d636b10b421ffdb32307dc110a8169dfde740af36dbe225b0c54d9fc33f3",
+  "retrieved_utc": "2026-10-19T19:47:58+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI05/GRA_MONIT01/EMSR927_AOI05_GRA_MONIT01_observedEventA_v2.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI05_GRA_MONIT01_observedEventA_v2.json",
+  "status": 200,
+  "bytes": 2863791,
+  "sha256": "d92e3d9332a7cd52a067691a6775383500f09b2a4bba19c557fa4200662a3ff6",
+  "retrieved_utc": "2026-10-19T19:48:00+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI05/GRA_MONIT01/EMSR927_AOI05_GRA_MONIT01_transportationL_v2.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI05_GRA_MONIT01_transportationL_v2.json",
+  "status": 200,
+  "bytes": 422273,
+  "sha256": "3bc022b7036661e5e84ead15c05f5dad56f4b6bd7815d423bca53541f67a28ef",
+  "retrieved_utc": "2026-10-19T19:48:02+00:00"
+ },
+ {
+  "url": "https://rapidmapping-viewer.s3.eu-west-1.amazonaws.com/EMSR927/AOI05/GRA_MONIT01/EMSR927_AOI05_GRA_MONIT01_transportationP_v2.json",
+  "file": "sources_ext\\cems\\EMSR927_AOI05_GRA_MONIT01_transportationP_v2.json",
+  "status": 200,
+  "bytes": 10293,
+  "sha256": "a80badbcc3d2298025542a0f02aae9d4e823efe8798feb374fce08a07a1f2bd3",
+  "retrieved_utc": "2026-10-19T19:48:03+00:00"
+ },
+ {
+  "url": "https://rapidmapping.emergency.copernicus.eu/backend/dashboard-api/public-activations/?code=EMSR927",
+  "file": "sources_ext\\cems\\EMSR927_dashboard.json",
+  "status": 200,
+  "bytes": 43996,
+  "sha256": "02709b33419c7678e75cccb50d488b410f9746f5b8132115f5726bafd7e7fbd6",
+  "retrieved_utc": "2026-10-19T19:50:13+00:00"
+ },
+ {
+  "url": "https://ndrrma.gov.np/mediafiles/rasuwa/Rapid_Damage_and_Needs_Assessment_RDNA_Rasuwa-Bhotekoshi_Flood_2026.pdf",
+  "file": "sources_ext\\official\\RDNA_Rasuwa-Bhotekoshi_Flood_2026.pdf",
+  "status": 200,
+  "bytes": 14186427,
+  "sha256": "7be1f3cab3315f950102f0e9cfe623d804b5ee3f0161923a9161926ef9c485da",
+  "retrieved_utc": "2026-10-19T20:01:38+00:00"
+ },
+ {
+  "url": "https://ndrrma.gov.np/mediafiles/publications/Bhotekoshi-Trishuli_Flood_Update_From_August_26_2026_to_October_3_2026.pdf",
+  "file": "sources_ext\\official\\NDRRMA_update_2026-08-26_to_2026-10-03.pdf",
+  "status": 200,
+  "bytes": 19913645,
+  "sha256": "0b5ef27c594857aed28fd9d7ba01b4ce2f041a052ac7b419929689a0dbb9f241",
+  "retrieved_utc": "2026-10-19T20:01:41+00:00"
+ },
+ {
+  "url": "https://giwmscdnone.gov.np/media/pdf_upload/1_Situation_Report_Bhotekoshi%20Flood_2026_CHWRR_hnmns6o.pdf",
+  "file": "sources_ext\\official\\CHWRR_Assessment_Report_II_2026.pdf",
+  "status": 200,
+  "bytes": 1987231,
+  "sha256": "20284c6219427272e3000e1126f70dc541bfea7c1f2c854b018c6c58217535ea",
+  "note": "curl with resume after IncompleteRead",
+  "retrieved_utc": "2026-10-19T20:01:56+00:00"
+ },
+ {
+  "url": "https://copernicus-dem-30m.s3.amazonaws.com/Copernicus_DSM_COG_10_N27_00_E084_00_DEM/Copernicus_DSM_COG_10_N27_00_E084_00_DEM.tif",
+  "file": "sources_ext\\dem\\Copernicus_DSM_COG_10_N27_00_E084_00_DEM.tif",
+  "status": "cached",
+  "bytes": 45336691,
+  "sha256": "66ae02e02fff0bcc1455717c1a5d6199c5ad3d00f96a1a94c10b74f3301d122a",
+  "retrieved_utc": "2026-10-19T21:02:31+00:00"
+ },
+ {
+  "url": "https://copernicus-dem-30m.s3.amazonaws.com/Copernicus_DSM_COG_10_N27_00_E085_00_DEM/Copernicus_DSM_COG_10_N27_00_E085_00_DEM.tif",
+  "file": "sources_ext\\dem\\Copernicus_DSM_COG_10_N27_00_E085_00_DEM.tif",
+  "status": "cached",
+  "bytes": 44874244,
+  "sha256": "5a0ec09cda62bcacfccacae0724e6493bee8f3f6fe11fb0ef47ccf3fa3716194",
+  "retrieved_utc": "2026-10-19T21:02:31+00:00"
+ },
+ {
+  "url": "https://copernicus-dem-30m.s3.amazonaws.com/Copernicus_DSM_COG_10_N28_00_E084_00_DEM/Copernicus_DSM_COG_10_N28_00_E084_00_DEM.tif",
+  "file": "sources_ext\\dem\\Copernicus_DSM_COG_10_N28_00_E084_00_DEM.tif",
+  "status": "cached",
+  "bytes": 41688284,
+  "sha256": "4df89793d0dc6373deb9c27536a1d7039ec4a9962a699a2312f57c935fbbe6dc",
+  "retrieved_utc": "2026-10-19T21:02:31+00:00"
+ },
+ {
+  "url": "https://copernicus-dem-30m.s3.amazonaws.com/Copernicus_DSM_COG_10_N28_00_E085_00_DEM/Copernicus_DSM_COG_10_N28_00_E085_00_DEM.tif",
+  "file": "sources_ext\\dem\\Copernicus_DSM_COG_10_N28_00_E085_00_DEM.tif",
+  "status": "cached",
+  "bytes": 38402839,
+  "sha256": "1590255a0ae7e8c1f49b277e287032a18a2e32c8e13c4c3298ed458f851cd3c7",
+  "retrieved_utc": "2026-10-19T21:02:31+00:00"
+ }
+]

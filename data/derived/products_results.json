@@ -1,0 +1,12 @@
+{
+ "n": 867,
+ "kappa_destroyed": 0.49223945630643406,
+ "kappa_any_damage": 0.03525195215205745,
+ "kappa_linear_weighted": 0.29946536178696037,
+ "pct_agree_destroyed": 74.0484429065744,
+ "hot_destroyed_confirmed_by_cems_pct": 65.13911620294598,
+ "cems_destroyed_confirmed_by_hot_pct": 97.07317073170731,
+ "unosat_destroyed_in_cems_aoi": 367,
+ "unosat_destroyed_confirmed_by_cems_pct": 33.787465940054496,
+ "unosat_destroyed_any_cems_damage_pct": 39.509536784741144
+}

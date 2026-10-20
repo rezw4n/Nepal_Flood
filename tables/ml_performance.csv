@@ -1,0 +1,6 @@
+model,auc,pr_auc,brier,prevalence,n,cv
+gbm,0.952382,0.762007,0.0701277,0.179892,23453,GroupKFold(6) on 5-km chainage blocks
+logit_full,0.95339,0.76358,0.0672614,0.179892,23453,GroupKFold(6) on 5-km chainage blocks
+logit_rem,0.857336,0.522447,0.109118,0.179892,23453,GroupKFold(6) on 5-km chainage blocks
+gbm_cems_labels_only,0.950305,0.719742,0.0677501,0.153287,23270,"GroupKFold(4), CEMS AOIs only"
+gbm_transfer_to_HOT,0.890122,0.920838,0.265576,0.644762,1050,trained outside HOT reach

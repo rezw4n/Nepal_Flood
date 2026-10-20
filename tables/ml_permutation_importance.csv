@@ -1,0 +1,10 @@
+feature,label,importance_auc_drop,importance_sd
+rem_m,Height above channel,0.196492,0.0702305
+dist_channel_m,Distance to channel,0.0449301,0.026342
+chainage_km,Distance downstream,0.0359417,0.0433949
+channel_slope,Channel gradient,0.01043,0.00937518
+log_area,Footprint area (log),0.00929288,0.0050667
+slope_deg,Hillslope angle,0.00402362,0.00483906
+n_within_100m,Building density,-0.000199394,0.00303995
+valley_width_20m,Valley-floor width,-0.000309126,0.00348534
+outer_bank,Outer bank of bend,-0.000794972,0.000757438

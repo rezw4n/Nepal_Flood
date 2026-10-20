@@ -1,0 +1,17 @@
+date,time_npt,deaths,missing,source,source_type,url
+2026-08-27,08:15,,826,Nepal Police bulletin (via ADRC compilation),secondary,https://www.adrc.asia/publications/disaster_report/pdf/2026/ADRC_FL_NPL_Rasuwa_20260826_EN.pdf
+2026-08-28,08:30,469,977,NDRRMA SitRep #07 (via HiRISK RHA NP3 Table 1),official-via-report,https://hirisk.org/wp-content/uploads/2026/08/RHA_NP3_RasuwaFlood-1.pdf
+2026-08-30,,734,2498,NDRRMA data as of 30 Aug (IFRC DREF MDRNP022),official-via-IO,https://go-api.ifrc.org/api/DownloadFile/96508/MDRNP022do
+2026-08-31,09:00,903,4247,NDRRMA bulletin (OCHA Flash Update #4),official-via-IO,https://www.adrc.asia/publications/disaster_report/pdf/2026/ADRC_FL_NPL_Rasuwa_20260826_EN.pdf
+2026-09-01,09:00,987,3916,NDRRMA SitRep (EN) #01,official,https://ndrrma.gov.np/mediafiles/rasuwa/Rasuwa_Flood_SitRep_Temp_ENG_01_01092026.pdf
+2026-09-03,19:00,1259,5083,NDRRMA (UN RC SitRep No. 6),official-via-IO,https://www.adrc.asia/publications/disaster_report/pdf/2026/ADRC_FL_NPL_Rasuwa_20260826_EN.pdf
+2026-09-06,14:00,1341,4996,MoFA daily update / NDRRMA via RSS,official,https://mofa.gov.np/content/1878/daily-update-6-september-2026/
+2026-09-08,18:00,1358,5326,NDRRMA flash update,official,https://ndrrma.gov.np/mediafiles/rasuwa/Situation_update_English_2026.9.08_6_PM.pdf
+2026-09-10,18:00,1377,5130,NDRRMA RDNA (official records),official,https://ndrrma.gov.np/mediafiles/rasuwa/Rapid_Damage_and_Needs_Assessment_RDNA_Rasuwa-Bhotekoshi_Flood_2026.pdf
+2026-09-15,19:00,1399,5179,NDRRMA SitRep (EN) #14,official,https://ndrrma.gov.np/mediafiles/rasuwa/SitRep_ENG_14_15092026.pdf
+2026-09-16,,1403,6150,NDRRMA (via Kantipur),official-via-press,https://ekantipur.com/news/2026/09/17/the-number-of-missing-people-in-the-bhotekoshi-floods-has-increased-from-5000-to-6000-44-07.html
+2026-09-19,19:00,1411,5875,NDRRMA SitRep (EN) #18,official,https://ndrrma.gov.np/mediafiles/rasuwa/SitRep_ENG_18_19092026.pdf
+2026-09-21,19:00,1451,5745,NDRRMA SitRep (EN) #20,official,https://ndrrma.gov.np/mediafiles/rasuwa/SitRep_ENG_20_21092026.pdf
+2026-09-23,19:00,1453,5644,NDRRMA (UN RC SitRep No. 9),official-via-IO,https://nepal.un.org/sites/default/files/2026-09/Nepal%20Rasuwa-Bhotekoshi%20Flood%20Situation%20Report%20No.9_20260922.pdf
+2026-09-26,19:00,1453,5285,NDRRMA SitRep (EN) #26 / UN RC SitRep No. 10,official,https://ndrrma.gov.np/mediafiles/publications/SitRep_ENG_25_26092026.pdf
+2026-10-03,,1455,5285,NDRRMA consolidated update 26 Aug-3 Oct 2026,official,https://ndrrma.gov.np/mediafiles/publications/Bhotekoshi-Trishuli_Flood_Update_From_August_26_2026_to_October_3_2026.pdf
