@@ -1,4 +1,4 @@
-# What height is safe? An analysis of building destruction along the 207-km path of Nepal's 2026 flood
+# How high above the river is safe? Building destruction along the 207-km path of Nepal's 2026 flood
 
 Code, data products and manuscript files for a study of the buildings destroyed by the 26 August 2026 rock–ice
 avalanche and flood in the Bhote Koshi–Trishuli valley, Nepal.

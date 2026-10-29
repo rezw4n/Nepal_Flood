@@ -50,49 +50,49 @@ def t_sources(s2log):
     pre = sorted({x['datetime'][:10] for x in s2log['pre']}); post = sorted({x['datetime'][:10] for x in s2log['post']})
     rows = [
         ['HOT building-damage inventory and analysed area', 'Humanitarian OpenStreetMap Team; AI-assisted (fAIR) labels on OpenStreetMap footprints',
-         'Post-event imagery; acquisition times not published', '1,053 footprints; 13.9 km^2^ analysed area',
+         'Post-event imagery; acquisition times not published; single post-event inventory', '1,053 footprints; 13.9 km^2^ analysed area',
          'Damage labels (local models, harmonization)', link('https://production-raw-data-api.s3.amazonaws.com/ISO3/NPL/buildings/hot_flood_npl_buildings_damage.geojson', 'HOT raw-data API') + '; terms unconfirmed'],
         ['CEMS EMSR927 grading', 'Copernicus EMS Rapid Mapping; AOI01, AOI02 first products; AOI03, AOI05 monitoring products (MONIT01)',
-         'Imagery 27 Aug–5 Sep 2026', 'Building points; road lines; bridge points; not-analysed areas',
+         'Imagery 27 Aug–5 Sep 2026; one graded snapshot per AOI (latest product used)', 'Building points; road lines; bridge points; not-analysed areas',
          'Damage labels, graded domain, road and bridge damage', link('https://rapidmapping.emergency.copernicus.eu/EMSR927', 'rapidmapping.emergency.copernicus.eu') + '; © European Union'],
         ['UNDP RAPIDA building debris layer', 'UNDP; records attributed to CEMS (2,311), SERTIT (48), UNOSAT (684)',
-         'StoryMap of 27 Aug, updated 2 Sep 2026', '3,043 footprints with floors, site type, debris',
+         'StoryMap of 27 Aug, updated 2 Sep 2026; event-based updates, snapshot retrieved 9 Sep 2026', '3,043 footprints with floors, site type, debris',
          'Damage labels, debris model', link('https://geosmarthosting.undp.org/arcgis/rest/services/Hosted/NPL_debris/FeatureServer/1', 'UNDP NPL_debris service') + '; terms unconfirmed'],
-        ['UNDP RAPIDA economic estimate and affected population', 'UNDP (CLIMADA-based)', 'Reference date 31 Aug 2026',
+        ['UNDP RAPIDA economic estimate and affected population', 'UNDP (CLIMADA-based)', 'Reference date 31 Aug 2026; single estimate',
          'Local-level US$ and people', 'Monetary comparison; affected-people indicator',
          link('https://geosmarthosting.undp.org/arcgis/rest/services/Hosted/NPL_Flooding_Economic_Estimate__20260826/FeatureServer/0', 'UNDP economic service') + '; terms unconfirmed'],
-        ['UNOSAT flow extent FL20260826NPL', 'UNITAR/UNOSAT via UNESCO IHP-WINS', 'Imagery 26–27 Aug 2026',
+        ['UNOSAT flow extent FL20260826NPL', 'UNITAR/UNOSAT via UNESCO IHP-WINS', 'Imagery 26–27 Aug 2026; single post-event extent',
          '37.35 km^2^ polygon in a 363 km^2^ analysed area', 'Flow-edge heights, exposure',
          link('https://ihp-wins.unesco.org/dataset/054c3516-e2b8-49a4-a256-1de4b7431ec6', 'IHP-WINS dataset') + '; redistribution terms unconfirmed'],
-        ['NDRRMA situation reports and consolidated update', 'Government of Nepal', '26 Aug–3 Oct 2026',
+        ['NDRRMA situation reports and consolidated update', 'Government of Nepal', '26 Aug–3 Oct 2026; near-daily situation reports',
          'Deaths, missing, warning timeline', 'Casualties, alert times', link('https://ndrrma.gov.np/mediafiles/publications/Bhotekoshi-Trishuli_Flood_Update_From_August_26_2026_to_October_3_2026.pdf', 'ndrrma.gov.np')],
-        ['Rapid Damage and Needs Assessment (RDNA)', 'NDRRMA and National Planning Commission', '10 Sep 2026',
+        ['Rapid Damage and Needs Assessment (RDNA)', 'NDRRMA and National Planning Commission', '10 Sep 2026; single assessment',
          'Affected buildings by local level; sector damage and needs', 'Comparison, ranking, monetary scope',
          link('https://ndrrma.gov.np/mediafiles/rasuwa/Rapid_Damage_and_Needs_Assessment_RDNA_Rasuwa-Bhotekoshi_Flood_2026.pdf', 'ndrrma.gov.np')],
-        ['Propagation timeline and gauge records', 'Centre of Hydrology and Water Resources Research (CHWRR)', '26 Aug 2026',
-         'Gauge-loss and threshold times; stage', 'Wave timing, stage rises', link('https://giwmscdnone.gov.np/media/pdf_upload/1_Situation_Report_Bhotekoshi%20Flood_2026_CHWRR_hnmns6o.pdf', 'giwmscdnone.gov.np')],
-        ['Rapid Hazard Assessment NP3', 'HiRISK', '28 Aug 2026', 'Source coordinates and process interpretation',
+        ['Propagation timeline and gauge records', 'Centre of Hydrology and Water Resources Research (CHWRR)', '26 Aug 2026; event times to the nearest minute',
+         'Gauge-loss and threshold times; stage', 'Wave timing, peak stages', link('https://giwmscdnone.gov.np/media/pdf_upload/1_Situation_Report_Bhotekoshi%20Flood_2026_CHWRR_hnmns6o.pdf', 'giwmscdnone.gov.np')],
+        ['Rapid Hazard Assessment NP3', 'HiRISK', '28 Aug 2026; single report', 'Source coordinates and process interpretation',
          'Start of the traced flow path', link('https://hirisk.org/wp-content/uploads/2026/08/RHA_NP3_RasuwaFlood-1.pdf', 'hirisk.org')],
-        ['Copernicus GLO-30 DEM', 'ESA/Airbus; tiles N27–N28, E084–E085', 'Data acquired 2011–2015', '30 m',
+        ['Copernicus GLO-30 DEM', 'ESA/Airbus; tiles N27–N28, E084–E085', 'Data acquired 2011–2015; single static epoch', '30 m',
          'Flow path, height above channel, slope, transects', link('https://copernicus-dem-30m.s3.amazonaws.com/', 'AWS open data') + '; Copernicus DEM licence'],
         ['Sentinel-2 Level-2A', 'ESA Copernicus; Earth Search v1 cloud-optimized GeoTIFFs',
-         f'{pre[0]} to {pre[-1]} ({len(s2log["pre"])} scenes); {post[0]} to {post[-1]} ({len(s2log["post"])} scenes)', '10–20 m',
+         f'{pre[0]} to {pre[-1]} ({len(s2log["pre"])} scenes); {post[0]} to {post[-1]} ({len(s2log["post"])} scenes); 5-day revisit, combined into one pre-event and one post-event composite', '10–20 m',
          'Change indices, true-colour chips', link('https://earth-search.aws.element84.com/v1', 'Earth Search STAC') + '; Copernicus Sentinel data terms'],
         ['Overture Maps release 2026-09-23.1', 'Overture Maps Foundation; buildings, transportation, base (infrastructure, water)',
-         'Release 23 Sep 2026', 'Footprints, lines, points', 'Common building stock; infrastructure exposure', 'Amazon S3 (overturemaps-us-west-2); ODbL for OpenStreetMap-derived themes'],
+         'Release 23 Sep 2026; monthly releases, one used', 'Footprints, lines, points', 'Common building stock; infrastructure exposure', 'Amazon S3 (overturemaps-us-west-2); ODbL for OpenStreetMap-derived themes'],
         ['GHS-BUILT-S R2023A', 'European Commission JRC', '1975–2020, 5-year epochs', '100 m', 'Built-up growth by height band',
          link('https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/GHSL/GHS_BUILT_S_GLOBE_R2023A/', 'JRC open data') + '; CC BY 4.0'],
-        ['WorldPop Global2 R2025A constrained counts', 'WorldPop, University of Southampton', '2015, 2020, 2026', '100 m',
+        ['WorldPop Global2 R2025A constrained counts', 'WorldPop, University of Southampton', '2015, 2020, 2026; annual series (2015–2030), three years used', '100 m',
          'Population in zones', link('https://data.worldpop.org/GIS/Population/Global_2015_2030/R2025A/', 'data.worldpop.org') + '; CC BY 4.0'],
-        ['geoBoundaries gbOpen NPL ADM3', 'William & Mary geoLab (commit 9469f09)', 'Current release', 'Local-level polygons',
+        ['geoBoundaries gbOpen NPL ADM3', 'William & Mary geoLab (commit 9469f09)', 'Current release; static', 'Local-level polygons',
          'Assignment to local levels', link('https://github.com/wmgeolab/geoBoundaries', 'github.com/wmgeolab') + '; CC BY-SA 4.0 (metadata)'],
-        ['Seismic onset of the failure', 'NRSC/ISRO; USGS event us7000tbwb', '26 Aug 2026, 08:37:10 NPT', 'Time', 'Time zero of the propagation timeline', 'Published sources [@Roy2026; @USGS2026]'],
-        ['Not used: DHM gauge observations', 'Department of Hydrology and Meteorology API', '–', '–', 'Requests returned HTTP 403 (application key required)', link('https://hydrology.gov.np', 'hydrology.gov.np')],
-        ['ESA WorldCover 2021 v200', 'European Space Agency', '2021', '10 m', 'Pre-event land cover in the flow extent',
+        ['Seismic onset of the failure', 'NRSC/ISRO; USGS event us7000tbwb', '26 Aug 2026, 08:37:10 NPT; single time, to the nearest second', 'Time', 'Time zero of the propagation timeline', 'Published sources [@Roy2026; @USGS2026]'],
+        ['DHM river levels', 'Department of Hydrology and Meteorology', 'Real-time level, 19 Oct 2026 (single reading)', 'Water level (m)', 'Post-monsoon base-flow level at Kali Khola; historical series not used (HTTP 403, application key required)', link('https://hydrology.gov.np', 'hydrology.gov.np')],
+        ['ESA WorldCover 2021 v200', 'European Space Agency', '2021; single epoch', '10 m', 'Pre-event land cover in the flow extent',
          link('https://esa-worldcover.org', 'esa-worldcover.org') + '; CC BY 4.0'],
         ['Not used: Planet imagery catalogue', 'Planet', '–', '–', 'Inspected for reference only (CC BY-NC 4.0)', '–'],
     ]
-    return table(['Dataset', 'Provider and version', 'Date or epoch', 'Resolution or unit', 'Use in this study', 'Access and terms'], rows)
+    return table(['Dataset', 'Provider and version', 'Date and temporal resolution', 'Resolution or unit', 'Use in this study', 'Access and terms'], rows)
 
 
 def t_timeline():
@@ -293,7 +293,8 @@ def t_losses():
 
 
 # ----------------------------------------------------------------------------------------------- document
-def build():
+def make_md_raw():
+    """Supplementary Information as Markdown, before citations are numbered."""
     F = facts()
     tr = json.loads((DER/'terrain_results.json').read_text())
     s2log = json.loads((ROOT/'sources_ext'/'s2'/'s2_log.json').read_text())
@@ -326,7 +327,7 @@ def build():
 
     md = f"""# Supplementary Information
 
-## What height is safe? An analysis of building destruction along the 207-km path of Nepal's 2026 flood
+## How high above the river is safe? Building destruction along the 207-km path of Nepal's 2026 flood
 
 **Nusrat Zahan Jarin^1^, Obaidur Rahman^2^, Rezwan Ahmed^3^**
 
@@ -342,7 +343,7 @@ This file contains Supplementary Notes 1–6, Supplementary Tables 1–15, Suppl
 
 The analysis combines two kinds of evidence (Supplementary Table 1). Event observations comprise the building-damage grading of HOT, CEMS and UNDP RAPIDA [@HOT2026; @EMSR927; @UNDP2026RAPIDA], the UNOSAT flow extent [@UNOSAT2026], the propagation timeline [@CHWRR2026] and official reports [@NDRRMA2026update; @RDNA2026]. Pre-event context comprises the Copernicus GLO-30 elevation model [@CopDEM], Sentinel-2 Level-2A imagery [@Drusch2012; @EarthSearch], the Overture building stock and infrastructure [@Overture], GHS-BUILT-S settlement history [@GHSBUILTS2023], WorldPop population [@WorldPopGlobal2] and geoBoundaries local levels [@Runfola2020]. All sources were retrieved between 9 September and 20 October 2026; every download was logged with its URL, HTTP status, size and SHA-256 checksum.
 
-Three limitations of access shaped the design. Gauge observations of the Department of Hydrology and Meteorology could not be retrieved because the public interface requires an application key, so stage rises were taken from the CHWRR report. HOT, UNDP and UNOSAT layers carry no product-specific redistribution licence; they are cited and archived for verification but should not be republished until permission is confirmed. Planet imagery is released for non-commercial use only and was not used.
+Three limitations of access shaped the design. Historical gauge observations of the Department of Hydrology and Meteorology could not be retrieved because the public interface requires an application key, so peak stages were taken from the CHWRR report and the ICIMOD synthesis [@CHWRR2026; @ICIMOD2026]. The only DHM value used is the post-monsoon level at Kali Khola, read from the public real-time feed on 19 October 2026, which serves as the base-flow reference at that gauge. HOT, UNDP and UNOSAT layers carry no product-specific redistribution licence; they are cited and archived for verification but should not be republished until permission is confirmed. Planet imagery is released for non-commercial use only and was not used.
 
 ### Supplementary Note 2 | Harmonization of damage records and its sensitivity
 
@@ -384,7 +385,7 @@ The debris estimate is most sensitive to the settlement factor applied to urban 
 
 ## Supplementary Tables
 
-**Supplementary Table 1 | Data sources.** Datasets used in this study, with version, date, resolution, use and access. Retrieval logs with URLs, dates and SHA-256 checksums accompany the code.
+**Supplementary Table 1 | Data sources.** Datasets used in this study, with version, date and temporal resolution, spatial resolution, use and access. Retrieval logs with URLs, dates and SHA-256 checksums accompany the code.
 
 {t_sources(s2log)}
 
@@ -428,7 +429,7 @@ The debris estimate is most sensitive to the settlement factor applied to urban 
 
 {t_envelope()}
 
-*Note:* † Bootstrap interval wider than 60 m; the core height uses the smaller of the 50% height and the 90th percentile of destroyed buildings before smoothing. Downstream of 114 km the envelope is interpolated between stage rises of {STAGE_RISE[1][1]} m at Kali Khola ({STAGE_RISE[1][0]:.0f} km) and {STAGE_RISE[2][1]} m at Devghat ({STAGE_RISE[2][0]:.1f} km) [@CHWRR2026].
+*Note:* † Bootstrap interval wider than 60 m; the core height uses the smaller of the 50% height and the 90th percentile of destroyed buildings before smoothing. Downstream of 114 km the envelope is interpolated between peak stages above base flow of {STAGE_RISE[1][1]} m at Kali Khola ({STAGE_RISE[1][0]:.0f} km; peak from CHWRR, base-flow level from the real-time record of the Department of Hydrology and Meteorology on 19 October 2026) and {STAGE_RISE[2][1]} m at Devghat ({STAGE_RISE[2][0]:.1f} km) [@CHWRR2026].
 
 **Supplementary Table 9 | Share of destroyed buildings and undamaged stock below uniform height thresholds.** Source: terrain_setback_thresholds.csv.
 
@@ -496,6 +497,11 @@ The debris estimate is most sensitive to the settlement factor applied to urban 
 
 {{{{REFERENCES}}}}
 """
+    return md
+
+
+def finalize(md):
+    """Number the citations, set typographic minus signs and append the reference list."""
     refs = {r['key']: r for r in json.loads((ROOT/'paper'/'references.json').read_text(encoding='utf-8'))}
     md, order = cite(md, refs)
     md = minus(md)
@@ -503,6 +509,11 @@ The debris estimate is most sensitive to the settlement factor applied to urban 
     left = re.findall(r'\{\{\w+\}\}', md)
     if left:
         raise KeyError(f'unresolved placeholders {left}')
+    return md, order
+
+
+def build():
+    md, order = finalize(make_md_raw())
     (ROOT/'paper'/'Supplementary_Information.md').write_text(md, encoding='utf-8')
     print(f'wrote Supplementary_Information.md: {len(order)} references, {md.count("**Supplementary Table")} table captions, '
           f'{md.count("**Supplementary Fig.")} figure legends')

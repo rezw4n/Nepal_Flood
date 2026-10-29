@@ -245,7 +245,7 @@
   },
   "Main text <= 5,000 words": {
    "ok": true,
-   "detail": 3396
+   "detail": 3402
   },
   "Display items <= 10": {
    "ok": true,
@@ -253,7 +253,7 @@
   },
   "References <= 90 (project soft limit; check the target journal)": {
    "ok": true,
-   "detail": 81
+   "detail": 82
   },
   "Harmonized totals match inventory": {
    "ok": true,
@@ -316,10 +316,10 @@
  },
  "pdf_pages": {
   "Nepal_Flood_Damage_Assessment": 20,
-  "Supplementary_Information": 15
+  "Supplementary_Information": 16
  },
  "abstract_words": 146,
- "main_text_words": 3396,
- "references": 81,
+ "main_text_words": 3402,
+ "references": 82,
  "display_items": 8
 }

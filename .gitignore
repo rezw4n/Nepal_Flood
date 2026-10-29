@@ -29,6 +29,7 @@ data/derived/cems_latest_points.csv
 data/derived/hot_*.csv
 tables/undp_debris_records.csv
 paper/*.html
+paper/Nepal-Flood-Document*
 checksums.csv
 
 # office lock files

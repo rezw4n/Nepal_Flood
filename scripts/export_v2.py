@@ -27,7 +27,7 @@ from reportlab.platypus import (Image, KeepTogether, PageBreak, Paragraph, Simpl
                                 TableStyle)
 
 ROOT = Path(__file__).resolve().parents[1]
-RUNNING_TITLE = "What height is safe? Nepal's 2026 flood"
+RUNNING_TITLE = "How high above the river is safe? Nepal's 2026 flood"
 TOKEN = re.compile(r'(\*\*.+?\*\*|\*[^*\s][^*]*?\*|\^[^^\s][^^]*?\^|~[^~\s][^~]*?~|\[[^\]]+\]\([^)]+\))')
 HEAD = '#183E54'
 

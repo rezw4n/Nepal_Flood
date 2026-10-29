@@ -54,7 +54,7 @@
  {
   "key": "Maharjan2021ICIMOD",
   "type": "report",
-  "authors": "Maharjan, S. B.; Steiner, J. F.; Shrestha, A. B.; Maharjan, A.; Nepal, S.",
+  "authors": "Maharjan, S. B.; Steiner, J. F.; Shrestha, A. B.; Maharjan, A.; Nepal, S.; Shrestha, M. S.; Bajracharya, B.; Rasul, G.; Shrestha, M.; Jackson, M.; Gupta, N.",
   "year": 2021,
   "title": "The Melamchi flood disaster: Cascading hazard and the need for multihazard risk management",
   "journal": "ICIMOD report (Kathmandu: International Centre for Integrated Mountain Development)",
@@ -3083,6 +3083,19 @@
   "pages": "",
   "doi": "",
   "url": "https://rapidmapping.emergency.copernicus.eu/backend/dashboard-api/public-activations/?code=EMSR927",
+  "verified": true
+ },
+ {
+  "key": "DHM2026",
+  "type": "dataset",
+  "authors": "Department of Hydrology and Meteorology (DHM), Government of Nepal",
+  "year": 2026,
+  "title": "Real-time river water levels: Trishuli River at Kali Khola (station 449.91)",
+  "journal": "Department of Hydrology and Meteorology, Kathmandu (accessed 19 October 2026)",
+  "volume": "",
+  "pages": "",
+  "doi": "",
+  "url": "https://hydrology.gov.np",
   "verified": true
  }
 ]

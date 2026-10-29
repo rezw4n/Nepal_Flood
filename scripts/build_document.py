@@ -25,7 +25,7 @@ from build_manuscript_v2 import facts, ROOT, DER, TAB, PAPER        # noqa: E402
 from build_si import t_sources                               # noqa: E402
 import export_v2 as ex                                       # noqa: E402
 
-TITLE = "What height is safe? An analysis of building destruction along the 207-km path of Nepal's 2026 flood"
+TITLE = "How high above the river is safe? Building destruction along the 207-km path of Nepal's 2026 flood"
 TEMPLATE = PAPER/'templates'/'document_template.md'
 OUT_MD, OUT_DOCX = PAPER/'Nepal Flood Document.md', PAPER/'Nepal Flood Document.docx'
 CROSSREF = ROOT/'sources_ext'/'crossref_authors.json'

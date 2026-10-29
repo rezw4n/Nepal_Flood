@@ -1,4 +1,4 @@
-# What height is safe? An analysis of building destruction along the 207-km path of Nepal's 2026 flood
+# How high above the river is safe? Building destruction along the 207-km path of Nepal's 2026 flood
 
 Nusrat Zahan Jarin^1^, Obaidur Rahman^2^, Rezwan Ahmed^3^
 
@@ -50,25 +50,26 @@ The building stock was taken from the Overture Maps release 2026-09-23.1 (Overtu
 
 **Table 1.** Data used in this study.
 
-| Dataset | Provider and version | Date or epoch | Resolution or unit | Use in this study |
+| Dataset | Provider and version | Date and temporal resolution | Resolution or unit | Use in this study |
 | --- | --- | --- | --- | --- |
-| HOT building-damage inventory and analysed area | Humanitarian OpenStreetMap Team; AI-assisted (fAIR) labels on OpenStreetMap footprints | Post-event imagery; acquisition times not published | 1,053 footprints; 13.9 km^2^ analysed area | Damage labels (local models, harmonization) |
-| CEMS EMSR927 grading | Copernicus EMS Rapid Mapping; AOI01, AOI02 first products; AOI03, AOI05 monitoring products (MONIT01) | Imagery 27 Aug–5 Sep 2026 | Building points; road lines; bridge points; not-analysed areas | Damage labels, graded domain, road and bridge damage |
-| UNDP RAPIDA building debris layer | UNDP; records attributed to CEMS (2,311), SERTIT (48), UNOSAT (684) | StoryMap of 27 Aug, updated 2 Sep 2026 | 3,043 footprints with floors, site type, debris | Damage labels, debris model |
-| UNDP RAPIDA economic estimate and affected population | UNDP (CLIMADA-based) | Reference date 31 Aug 2026 | Local-level US$ and people | Monetary comparison; affected-people indicator |
-| UNOSAT flow extent FL20260826NPL | UNITAR/UNOSAT via UNESCO IHP-WINS | Imagery 26–27 Aug 2026 | 37.35 km^2^ polygon in a 363 km^2^ analysed area | Flow-edge heights, exposure |
-| NDRRMA situation reports and consolidated update | Government of Nepal | 26 Aug–3 Oct 2026 | Deaths, missing, warning timeline | Casualties, alert times |
-| Rapid Damage and Needs Assessment (RDNA) | NDRRMA and National Planning Commission | 10 Sep 2026 | Affected buildings by local level; sector damage and needs | Comparison, ranking, monetary scope |
-| Propagation timeline and gauge records | Centre of Hydrology and Water Resources Research (CHWRR) | 26 Aug 2026 | Gauge-loss and threshold times; stage | Wave timing, stage rises |
-| Rapid Hazard Assessment NP3 | HiRISK | 28 Aug 2026 | Source coordinates and process interpretation | Start of the traced flow path |
-| Copernicus GLO-30 DEM | ESA/Airbus; tiles N27–N28, E084–E085 | Data acquired 2011–2015 | 30 m | Flow path, height above channel, slope, transects |
-| Sentinel-2 Level-2A | ESA Copernicus; Earth Search v1 cloud-optimized GeoTIFFs | 2025-10-11 to 2025-10-26 (14 scenes); 2026-09-21 to 2026-10-18 (19 scenes) | 10–20 m | Change indices, true-colour chips |
-| Overture Maps release 2026-09-23.1 | Overture Maps Foundation; buildings, transportation, base (infrastructure, water) | Release 23 Sep 2026 | Footprints, lines, points | Common building stock; infrastructure exposure |
+| HOT building-damage inventory and analysed area | Humanitarian OpenStreetMap Team; AI-assisted (fAIR) labels on OpenStreetMap footprints | Post-event imagery; acquisition times not published; single post-event inventory | 1,053 footprints; 13.9 km^2^ analysed area | Damage labels (local models, harmonization) |
+| CEMS EMSR927 grading | Copernicus EMS Rapid Mapping; AOI01, AOI02 first products; AOI03, AOI05 monitoring products (MONIT01) | Imagery 27 Aug–5 Sep 2026; one graded snapshot per AOI (latest product used) | Building points; road lines; bridge points; not-analysed areas | Damage labels, graded domain, road and bridge damage |
+| UNDP RAPIDA building debris layer | UNDP; records attributed to CEMS (2,311), SERTIT (48), UNOSAT (684) | StoryMap of 27 Aug, updated 2 Sep 2026; event-based updates, snapshot retrieved 9 Sep 2026 | 3,043 footprints with floors, site type, debris | Damage labels, debris model |
+| UNDP RAPIDA economic estimate and affected population | UNDP (CLIMADA-based) | Reference date 31 Aug 2026; single estimate | Local-level US$ and people | Monetary comparison; affected-people indicator |
+| UNOSAT flow extent FL20260826NPL | UNITAR/UNOSAT via UNESCO IHP-WINS | Imagery 26–27 Aug 2026; single post-event extent | 37.35 km^2^ polygon in a 363 km^2^ analysed area | Flow-edge heights, exposure |
+| NDRRMA situation reports and consolidated update | Government of Nepal | 26 Aug–3 Oct 2026; near-daily situation reports | Deaths, missing, warning timeline | Casualties, alert times |
+| Rapid Damage and Needs Assessment (RDNA) | NDRRMA and National Planning Commission | 10 Sep 2026; single assessment | Affected buildings by local level; sector damage and needs | Comparison, ranking, monetary scope |
+| Propagation timeline and gauge records | Centre of Hydrology and Water Resources Research (CHWRR) | 26 Aug 2026; event times to the nearest minute | Gauge-loss and threshold times; stage | Wave timing, peak stages |
+| Rapid Hazard Assessment NP3 | HiRISK | 28 Aug 2026; single report | Source coordinates and process interpretation | Start of the traced flow path |
+| Copernicus GLO-30 DEM | ESA/Airbus; tiles N27–N28, E084–E085 | Data acquired 2011–2015; single static epoch | 30 m | Flow path, height above channel, slope, transects |
+| Sentinel-2 Level-2A | ESA Copernicus; Earth Search v1 cloud-optimized GeoTIFFs | 2025-10-11 to 2025-10-26 (14 scenes); 2026-09-21 to 2026-10-18 (19 scenes); 5-day revisit, combined into one pre-event and one post-event composite | 10–20 m | Change indices, true-colour chips |
+| Overture Maps release 2026-09-23.1 | Overture Maps Foundation; buildings, transportation, base (infrastructure, water) | Release 23 Sep 2026; monthly releases, one used | Footprints, lines, points | Common building stock; infrastructure exposure |
 | GHS-BUILT-S R2023A | European Commission JRC | 1975–2020, 5-year epochs | 100 m | Built-up growth by height band |
-| WorldPop Global2 R2025A constrained counts | WorldPop, University of Southampton | 2015, 2020, 2026 | 100 m | Population in zones |
-| geoBoundaries gbOpen NPL ADM3 | William & Mary geoLab (commit 9469f09) | Current release | Local-level polygons | Assignment to local levels |
-| Seismic onset of the failure | NRSC/ISRO; USGS event us7000tbwb | 26 Aug 2026, 08:37:10 NPT | Time | Time zero of the propagation timeline |
-| ESA WorldCover 2021 v200 | European Space Agency | 2021 | 10 m | Pre-event land cover in the flow extent |
+| WorldPop Global2 R2025A constrained counts | WorldPop, University of Southampton | 2015, 2020, 2026; annual series (2015–2030), three years used | 100 m | Population in zones |
+| geoBoundaries gbOpen NPL ADM3 | William & Mary geoLab (commit 9469f09) | Current release; static | Local-level polygons | Assignment to local levels |
+| Seismic onset of the failure | NRSC/ISRO; USGS event us7000tbwb | 26 Aug 2026, 08:37:10 NPT; single time, to the nearest second | Time | Time zero of the propagation timeline |
+| DHM river levels | Department of Hydrology and Meteorology | Real-time level, 19 Oct 2026 (single reading) | Water level (m) | Post-monsoon base-flow level at Kali Khola; historical series not used (HTTP 403, application key required) |
+| ESA WorldCover 2021 v200 | European Space Agency | 2021; single epoch | 10 m | Pre-event land cover in the flow extent |
 
 *Note:* Retrieval dates, URLs and checksums of every source are recorded in the accompanying retrieval logs; access terms are listed in Supplementary Table 1.
 
@@ -360,7 +361,7 @@ Liu, Q., Khatri, A., Lord, A., Ghouli, M., Thapa, N., Steiner, J., Immerzeel, W.
 
 Luo, H. Y., Zhang, L. M., Zhang, L. L., He, J., & Yin, K. S. (2023). Vulnerability of buildings to landslides: The state of the art and future needs. *Earth-Science Reviews*, *238*, 104329. [https://doi.org/10.1016/j.earscirev.2023.104329](https://doi.org/10.1016/j.earscirev.2023.104329)
 
-Maharjan, S. B., Steiner, J. F., Shrestha, A. B., Maharjan, A., & Nepal, S. (2021). *The Melamchi flood disaster: Cascading hazard and the need for multihazard risk management*. ICIMOD report (Kathmandu: International Centre for Integrated Mountain Development). [https://doi.org/10.53055/ICIMOD.981](https://doi.org/10.53055/ICIMOD.981)
+Maharjan, S. B., Steiner, J. F., Shrestha, A. B., Maharjan, A., Nepal, S., Shrestha, M. S., Bajracharya, B., Rasul, G., Shrestha, M., Jackson, M., & Gupta, N. (2021). *The Melamchi flood disaster: Cascading hazard and the need for multihazard risk management*. ICIMOD report (Kathmandu: International Centre for Integrated Mountain Development). [https://doi.org/10.53055/ICIMOD.981](https://doi.org/10.53055/ICIMOD.981)
 
 Mani, P., Allen, S., Evans, S. G., Kargel, J. S., Mergili, M., Petrakov, D., & Stoffel, M. (2023). Geomorphic Process Chains in High‐Mountain Regions—A Review and Classification Approach for Natural Hazards Assessment. *Reviews of Geophysics*, *61*(4), e2022RG000791. [https://doi.org/10.1029/2022RG000791](https://doi.org/10.1029/2022RG000791)
 

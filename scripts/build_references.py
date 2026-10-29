@@ -94,7 +94,14 @@ EXTRA = [
          journal='Copernicus EMS Rapid Mapping (accessed 20 October 2026)', volume='', pages='', doi='',
          url='https://rapidmapping.emergency.copernicus.eu/backend/dashboard-api/public-activations/?code=EMSR927',
          verified=True, type='dataset'),
+    dict(key='DHM2026', authors='Department of Hydrology and Meteorology (DHM), Government of Nepal', year=2026,
+         title='Real-time river water levels: Trishuli River at Kali Khola (station 449.91)',
+         journal='Department of Hydrology and Meteorology, Kathmandu (accessed 19 October 2026)', volume='', pages='',
+         doi='', url='https://hydrology.gov.np', verified=True, type='dataset'),
 ]
+# author lists completed from the publication itself where the DOI record is incomplete
+AUTHORS = {'Maharjan2021ICIMOD': 'Maharjan, S. B.; Steiner, J. F.; Shrestha, A. B.; Maharjan, A.; Nepal, S.; Shrestha, M. S.; '
+                                 'Bajracharya, B.; Rasul, G.; Shrestha, M.; Jackson, M.; Gupta, N.'}
 
 
 def main():
@@ -102,6 +109,8 @@ def main():
     have = {r['key'] for r in R}
     R += [e for e in EXTRA if e['key'] not in have]
     R = [r for r in R if r.get('verified')]
+    for r in R:
+        r['authors'] = AUTHORS.get(r['key'], r['authors'])
     (ROOT/'paper'/'references.json').write_text(json.dumps(R, indent=1, ensure_ascii=False), encoding='utf-8')
     print(len(R), 'verified references')
 

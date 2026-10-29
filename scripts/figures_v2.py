@@ -499,7 +499,7 @@ def fig4(c):
             label='UNOSAT flow-extent edge height (median, IQR)')
     sg = [(105.9, 8.9, 'Galchhi'), (172.0, 9.1, 'Kali Khola'), (206.8, 2.6, 'Devghat')]
     ax.plot([s[0] for s in sg], [s[1] for s in sg], '*', ms=6.5, mfc=INK, mec='white', mew=0.4, zorder=6,
-            label='Stage rise, gauged or reconstructed (CHWRR, ICIMOD)')
+            label='Peak stage above base flow, gauged or reconstructed (CHWRR, DHM, ICIMOD)')
     for x_, y_, n_ in sg:
         if n_ == 'Galchhi':
             ax.annotate(n_, (x_, y_), xytext=(124, 33), fontsize=5, ha='left', va='center', color=INK2,
